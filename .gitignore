@@ -22,3 +22,12 @@ go.work
 
 # MS_Office temp files
 ~$*.*
+
+# Hugo
+*_hu*
+
+# OS
+.DS_Store
+
+# Editors
+*.xpr
