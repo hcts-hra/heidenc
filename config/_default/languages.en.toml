@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Heidelberg Encyclopedia Database"
+# logo = "img/logo.png"
+description = "Bibliography of Chinese Encyclopaedic Works 1840-1937, their Japanese and Western Models and Sources."
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Duncan Paterson"
+  image = "img/duncdrum.jpg"
+  headline = "Data Manager"
+  bio = "Digital Literati"
+  links = [
+    { email = "mailto:hra@hcts.uni-heidelberg.de" },
+    { link = "http://hra.uni-hd.de" },
+    { github = "https://github.com/duncdrum" },
+  ]
