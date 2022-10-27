@@ -31,3 +31,4 @@ go.work
 
 # Editors
 *.xpr
+.vscode/
