@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hcts-hra.github.io/heidenc/sitemap.xml
