@@ -2,6 +2,9 @@
 title: "Bibliography"
 description: "Chinese Encyclopedic Works 1840-1937"
 date: 2019-05-14
+menu: "main"
+showAuthor: true
+showAuthorsBadges : false
 authors:
     - rudolfwagner
 ---

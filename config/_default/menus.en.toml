@@ -10,19 +10,21 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
+
 [[main]]
   name = "Introduction"
+  url = "/introduction/"
   weight = 10
 
-[[main]]
-  name = "Bibliography"
-  url = "/Bibliography/"
-  weight = 20
+# [[main]]
+#  name = "Bibliography"
+#  url = "/bibliography/"
+#  weight = 20
 
-[[main]]
-  name = "Secondary Literature"
-  url = "/secondary_literature/"
-  weight = 30
+# [[main]]
+#  name = "Secondary Literature"
+#  url = "/secondary_literature/"
+#  weight = 30
 
 
 # -- Footer Menu --

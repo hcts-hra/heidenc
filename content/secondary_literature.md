@@ -2,8 +2,12 @@
 title: "Secondary Literature"
 description: "to be updated"
 date: 2019-05-14
+menu: "main"
+showAuthor: true
+showAuthorsBadges : false
 authors:
     - rudolfwagner
+    - duncdrum
 ---
 
 Wen Ching (pseudo.), "The Chinese Encyclopaedists", in Wen Ching (pseudo.), *The Chinese Crisis from Within*, Rev. G. M. Reith ed. London: Grant Richards 1901, p. 31-48.
