@@ -2,7 +2,6 @@
 title: "Secondary Literature"
 description: "to be updated"
 date: 2019-05-14
-menu: "main"
 authors:
     - rudolfwagner
 ---

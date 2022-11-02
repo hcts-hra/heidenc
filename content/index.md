@@ -1,8 +1,7 @@
 ---
-title: "Introduction: heidENC archive"
+title: "Introduction"
 description: "Archive of heidENC database"
 date: 2022-10-24
-menu: "main"
 authors:
     - rudolfwagner
 ---
