@@ -4,10 +4,15 @@ Bibliography of Chinese Encyclopaedic Works 1840-1937, their Japanese and Wester
 
 <!-- TODO(DP): Link heiData see #6 -->
 
-## Development
-
 This repo contains the contents of the last archived word document converted to markdown to deploy a statically hosted webpage.
 
+The original project has been split into three parts:
+
+- This Repo.
+- A separate repo for professionally typed `.txt`  files of primary sources (incomplete)
+- a [Data publication](https://heidata.uni-heidelberg.de) for binary files
+
+<!-- ## Development -->
 <!-- TODO(DP): Contributions -->
 
 ## Requirements
