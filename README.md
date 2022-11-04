@@ -9,11 +9,16 @@ This repo contains the contents of the last archived word document converted to 
 The original project has been split into three parts:
 
 - This Repo.
-- A separate repo for professionally typed `.txt`  files of primary sources (incomplete)
+- A [data repo](https://github.com/hcts-hra/heidenc-txt) for professionally typed `.txt`  files of primary sources (incomplete)
 - a [Data publication](https://heidata.uni-heidelberg.de) for binary files
 
-<!-- ## Development -->
-<!-- TODO(DP): Contributions -->
+## Development
+
+Corrections and contributions to the bibliography are welcome:
+
+1. Follow the instructions below to start a local copy of the webpage.
+2. Edit contents
+3. Open a pull request
 
 ## Requirements
 
