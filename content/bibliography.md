@@ -29,7 +29,7 @@ Availability: Print edition in HD library.
 
 Liu Shuangsong 劉雙松 (Ziming 子明) ed., *Ke xin ban zengbu tianxia bianyong wenlin miaojin Wanbao quanshu*, Shulin Anzhengtang 書林安正堂. 1612. 9 v. 
 
-Availability: Copy from Harvard Yenching library, scan in HD database.
+Availability: [Copy from Harvard Yenching library](http://id.lib.harvard.edu/alma/990079102910203941/catalog), scsan in HD database.
 
 ---
 
