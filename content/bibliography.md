@@ -29,7 +29,7 @@ Availability: Print edition in HD library.
 
 Liu Shuangsong 劉雙松 (Ziming 子明) ed., *Ke xin ban zengbu tianxia bianyong wenlin miaojin Wanbao quanshu*, Shulin Anzhengtang 書林安正堂. 1612. 9 v. 
 
-Availability: [Copy from Harvard Yenching library](http://id.lib.harvard.edu/alma/990079102910203941/catalog), scsan in HD database.
+Availability: [Copy from Harvard Yenching library](http://id.lib.harvard.edu/alma/990079102910203941/catalog), scan in HD database.
 
 ---
 
@@ -61,7 +61,7 @@ Availability: Scan in HD database.
 
 *Zeng bu wan bao quan shu* 增補萬寶全書,1746, joinly compiled by famous authors, 諸名家合選,supplement by Mao Huanwen 毛煥文 in 1747, preface by Mao Huanwen. 30 juan, Suzhou: Jinchang shuyetang 金閶書業堂,1747.
 
-Availability: Copy of scan digitized by Harvard Yenching Institut in Heidelberg database.
+Availability: [Copy from Harvard Yenching library](https://id.lib.harvard.edu/alma/990080858650203941/catalog)
 
 ---
 
@@ -249,7 +249,7 @@ Availability: Scan in HD database.
 
 *Siyi biannian biao* 四裔編年表,translation of Blair, John. *Blair's chronological tables revised and enlarged. Comprehending the chronology and history of the world, from the earliest times to the Russian treaty of peace*, April, 1856. By J. Willoughby Roses. London 1856. Translation by Young Allen and Yan Liangxun, written version by Li Fengbao, Shanghai: Jiangnan zhizaoju, 1874. 4 vols.
 
-Availability: Harvard, has master microfilm, FC-M1806 if needed copy may be ordered.
+Availability: [Copy from Harvard Yenching library](http://id.lib.harvard.edu/alma/990081541010203941/catalog), Harvard, has master microfilm, FC-M1806 if needed copy may be ordered.
 
 ---
 
@@ -390,7 +390,7 @@ Availability: Scan *Fuguo ce* in HEIDENC. Scan of Fawcett, *Manual*, 5th edition
 
 *Gongfa huitong* 公法會通, Shanghai: Tongwenguan, 1880. Translation by Ding Weiliang 丁韙良, preface by Wang Wenshao 王文韶 and by Ding Weiliang. Translation of Johann Caspar Bluntschli, *Das Moderne Völkerrecht der civilisierten Staaten* (1868), based on the French translation by Charles Lardy, *Le droit international codifié*, Paris: Guillaumin, 1870. Title calligraphy by Dong Xun 董恂. Harvard has later print, Beijing: Beiyang shuju, 1898.
 
-Availability: Scans of the Chinese, German and French versions in HD database.
+Availability: [Copy from Harvard Yenching Library](https://id.lib.harvard.edu/alma/990075781070203941/catalog). Scans of the Chinese, German and French versions in HD database.
 
 *Ouzhou dongfang jiaoshe ji* 歐洲東方交涉記, translation of Malcolm MacColl, *Three Years of the* *Eastern Question* (London: Chatto and Windus, 1878) by Lin Yuezhi 林樂知 (Young Allan) and Qu Anglai 瞿昂來. Shanghai: Shanghai zhizaoju, 1880. Modern reprint from the original in *Shiliao sibian. Xixue fuqiang congshu xuancui* 史料四編。 西學富強叢書選萃. Taipei: Guangwen shuju, 1972, vol. 2.
 
@@ -1204,7 +1204,7 @@ Availability: All of the above titles Scan on [http://kindai.ndl.go.jp/]( http:/
 
 *Man'guk yaksa* 萬國略史, Hakpu P'yonyipkuk 學部編輯局 Sin'gan 新刊, :\[Korea\], Kaeguk 504 \[1895\] **Physical Details:** 2 v. in 1 (double leaves) ; 29 cm. Korean.
 
-Availability: Harvard Yenching. No copy in Heidelberg.
+Availability: [Copy From Harvard Yenching](http://id.lib.harvard.edu/alma/990074296100203941/catalog). No copy in Heidelberg.
 
 ---
 
@@ -1996,7 +1996,7 @@ Reprint of: *Xixue qimeng shiliu zhong* 《西學啓蒙十六種》(1885), at �
 
 Reprint of: *Gongfa huitong* 公法會通, translation by Ding Weiliang 丁韙良, preface by Wang Wenshao 王文韶 and by Ding Weiliang of Johann Caspar Bluntschli, *Das Moderne Völkerrecht der civilisierten Staaten* (1868), based on the French translation by Charles Lardy, *Le droit international codifié*, Paris: Guillaumin, 1870. Beijing: Beiyang shuju.
 
-Availability: Copy at Harvard Yenching Library. Not in HD database.
+Availability: [Copy at Harvard Yenching Library](https://id.lib.harvard.edu/alma/990075781070203941/catalog). Not in HD database.
 
 ---
 
