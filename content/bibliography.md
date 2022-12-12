@@ -13,7 +13,7 @@ authors:
 
 Xu Sanyou 徐三友, *Wu che ba jin* 五車拔錦, 16 juan. Preface dated 1597 by Li Chunyue 李春月. Alternative full title: *Xinjie quanfu tianxia simin liyong bianguan wuche bajin* 新鍥全輔天下四民利用便觀五車拔錦. Repr. In Sakai, Tadao 酒井忠夫, Gosha Bakkin 五車拔錦. Tokyo: Kyūko shoin, 1999.
 
-Availability: Scan in HD database.
+Availability: Open access at [BIBLIOTHÈQUE NATIONALE DE FRANCE](http://ark.bnf.fr/ark:/12148/btv1b9006397h). Scan in HD database.
 
 ---
 
@@ -41,7 +41,7 @@ Availability: Scan from Keio Univ. in HD database, chapters 1-3 in correct page 
 
 *Xin ke Meigong Chen xian sheng bian ji Zhu shu bei cai wan juan sou qi quan shu*, 新刻眉公陳先生編纂諸書俻採萬卷搜奇全書目錄, 37 juan , 6 vols. Illustrated without color.\[Tanyi 潭邑\] Zunrentang 存仁堂, Ming 崇禎1 (1628) printed by Chen Huaigan, 陳懷軒
 
-Availability: Copy of scan digitized by Harvard Yenching Institut in Heidelberg database. Looks very close to the Ai Nanying compilation (previous entry, same publisher)
+Availability: Open access at [National Archives of Japan Digital Archive](https://www.digital.archives.go.jp/file/en/1077929). Copy of scan digitized by Harvard Yenching Institut in Heidelberg database. Looks very close to the Ai Nanying compilation (previous entry, same publisher)
 
 ---
 
@@ -61,7 +61,7 @@ Availability: Scan in HD database.
 
 *Zeng bu wan bao quan shu* 增補萬寶全書,1746, joinly compiled by famous authors, 諸名家合選,supplement by Mao Huanwen 毛煥文 in 1747, preface by Mao Huanwen. 30 juan, Suzhou: Jinchang shuyetang 金閶書業堂,1747.
 
-Availability: [Copy from Harvard Yenching library](https://id.lib.harvard.edu/alma/990080858650203941/catalog)
+Availability: Open access at [Harvard Library](https://id.lib.harvard.edu/curiosity/chinese-rare-books/49-990080858650203941). Copy of scan digitized by Harvard Yenching Institut in Heidelberg database.
 
 ---
 
@@ -86,13 +86,13 @@ Availability: Open access [State Library Berlin](http://digital.staatsbibliothek
 Rees, Abraham (1743-1825), *The cyclopædia, or, universal dictionary of arts, sciences, and literature*, *With the assistance of eminent professional gentlemen. ; Illustrated with numerous engravings, by the most distinguished artists*. ; In forty-one volumes. Vol. I\[-XLI\]London : Longman, Hurst, Rees, Orme & Brown, 1819-1820., 45 v. : ill. ; 27 cm. : Vols. \[40-43\] plates A-W; v. \[44\].. The forty-one volumes were first issued in 87 parts, in printed boards, from 1805 to 1825. Title pages and half-titles to the 41 vols. were issued in the 87th part (Vol. XLI, Part III). AmericanEdition: First American edition, revised, corrected, enlarged, and adapted to this country, by several literary and scientific characters. Published: Philadelphia: : Published by Samuel F. Bradford, and Murray, Fairman and Co. Peter A. Mesier, New-York; etc. 1810-1824,
 Referred to by Lin Zexu 1839 in his *Yangshi zalu* 洋事雑錄, section 16, p. 30, as „西果羅彼釐亞".
 
-Availability: Scan of London edition in Heidelberg database.
+Availability: Open access at [Biodiversity Heritage Library](https://doi.org/10.5962/bhl.title.59683). Scan of London edition in Heidelberg database.
 
 ### 1823
 
 Chen Jiru 陳継儒 (1558=-1639), *Zeng bu wan bao quan shu*  \[Mao Huanwen 毛煥文,zeng bu\] , Suzhou: Jinchang jing yi tang 金閶經義堂 \[20 juan\], 1823.
 
-Availability: Scan in HD database.
+Availability: Open access at [Standford Library](https://searchworks.stanford.edu/view/8223962)to Google Books. Scan in HD database.
 
 ---
 
@@ -100,7 +100,7 @@ Availability: Scan in HD database.
 
 Hugh Murray ed., *An encyclopedia of geography : comprising a complete description of the earth, exhibiting its relation to the heavenly bodies, its physical structure, the natural history of each country, and the industry, commerce, political institutions, and civil and social state of all nations*, London : Longman, 1834 (second edition: 1840). 3 vols. The first American edition came out in Philadelphia: Carey, Lea and Blanchard, 1837. It was given to Lin Zexu, and his own world geography as well as that by Wei Yuan are largely based on translations from it, see under Lin Zexu 1839.
 
-Availability: Vol 1-3 of the 1837 edition Scan in HEIDENC
+Availability: A reprint edition of the vol.1 can be accessed via [Google Books](https://books.google.de/books?id=n70BAAAAYAAJ&lpg=PR1&ots=FR1EhC1oRZ&dq=The%20encyclopaedia%20of%20geography%20%3A%20comprising%20a%20complete%20description%20of%20the%20earth%2C%20physical%2C%20statistical%2C%20civil%20and%20political%2C%20exhibiting%20its%20relation%20to%20the%20heavenly%20bodies%2C%20its%20physical%20structure%2C%20the%20natural%20history%20of%20each%20country%20and%20the%20industry%2C%20commerce%2C%20political%20institutions%20and%20civil%20and%20social%20state%20of%20all%20nations&pg=PP1#v=onepage&q&f=false), of the vol.2 via [Google Books](https://www.google.de/books/edition/The_Encyclopaedia_of_Geography_Complete/YlUwen9LcfUC?hl=en&gbpv=0, and of the vol.3 via [Google Books](https://www.google.de/books/edition/The_Encyclopædia_of_Geography/jzdDAQAAMAAJ?hl=en&gbpv=0&kptab=morebyauthor). Vol 1-3 of the 1837 edition Scan in HEIDENC
 
 ---
 
