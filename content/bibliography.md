@@ -92,7 +92,7 @@ Availability: Scan of London edition in Heidelberg database.
 
 Chen Jiru 陳継儒 (1558=-1639), *Zeng bu wan bao quan shu*  \[Mao Huanwen 毛煥文,zeng bu\] , Suzhou: Jinchang jing yi tang 金閶經義堂 \[20 juan\], 1823.
 
-Availability: Scan in HD database.
+Availability: Open access at Harvard University via [Hathi Trust](https://hdl.handle.net/2027/hvd.32044067976787).Scan in HD database.
 
 ---
 
@@ -110,7 +110,7 @@ William and Robert Chambers, *Chamber's Educational Course*. Edinburgh, 1837 fol
 
 "Economy" (John Hill Burton), *Political economy for use in schools and for private instruction*, Edinburgh: Chambers 1852. Reprint in Hiroshi Mizuta ed., *Western economics in Japan: the early years*, Bristol, UK : Thoemmes Press ; Tokyo : Kyokuto Shoten, 1999. vol. 3.
 
-Availability of Burton Political economy: Scan in Heidelberg database. Of Chinese translation: see *Xixue fuqiang congshu* in HD database.
+Availability: Open access to [*Chamber's Journal 1832-1956*](https://archive.org/details/pub_chambers-journal?&sort=-week&page=6). Burton Political economy: Scan in Heidelberg database. Of Chinese translation: see *Xixue fuqiang congshu* in HD database.
 
 ---
 
@@ -133,7 +133,7 @@ Availability: Scan in Heidelberg database.
 
 Liang Tingnan 梁廷枏, *Haiguo sishuo* 海國四說, 1848. Reprint: 北京 : 中華書局, 1993. Contained in this collection the first description of the US from a Chinese author, 合省國說 (On the United States).
 
-Availability: Reprint edition in Heidelberg library. Full text version (unchecked) in Heidelberg database.
+Availability: Open access at [Jean and Alexander Heard Libraries](https://catalog.library.vanderbilt.edu/permalink/01VAN_INST/13em2a7/alma991043726545403276). Reprint edition in Heidelberg library. Full text version (unchecked) in Heidelberg database.
 
 ---
 
@@ -145,7 +145,7 @@ Availability: Print edition in Heidelberg.
 
 (Guo Shilie 郭實獵, Ernst August Guetzlaff). *Wanguo shizhuan* 萬國史傳。 N.p., about 1850.
 
-Availability: In HD database.
+Availability: Open access at [*Zhongguo zhexueshu dianzihua jihua*](https://ctext.org/library.pl?if=gb&res=86126). In HD database.
 
 ---
 
@@ -153,7 +153,7 @@ Availability: In HD database.
 
 D.J. MacGowan. *Philosophical Almanac in Chinese. Bowu tongshu* 博物通書. Ningbo, 1851.Introduction to the telegraph with broad technical background information and English intro.
 
-Availability: Scan in HD database.
+Availability: Open access at [National Library of Astralia](http://nla.gov.au/nla.obj-45911098). Scan in HD database.
 
 ### 1855
 
@@ -173,13 +173,13 @@ Charles Baker (1803-1874). *Graduated reading; comprising a circle of knowledge 
 
 Fukukama Tatsuo 福鎌達夫, *Meiji shoki hyakka zensho no kenkyū* 明治初期百科全書の研究 \[Studies of Early-Meiji encyclopaedias\] (Tokyo: Kazama Shobō, 1968), 11 and 13-14, includes the 1863 Japanese translation among early encyclopaedic works).
 
-Availability: Scan in Heidelberg database.
+Availability: Open access at [Cornell University Library](https://hdl.handle.net/2027/coo1.ark:/13960/t15m6sh5r).Scan in Heidelberg database.
 
 ### 1858
 
 Benjamin Hobson. *A Medical Vocabulary in English and Chinese. Vocabulary of terms used in anatomy, medicine, material medica, and natural philosophy etc./Yixue Ying Hua zishi 醫學英華字釋*, Shanghai: Shanghae mission press, 1858. 74 pp.
 
-Availability: Scan in HD database.
+Availability: Open access at [Google Books](https://books.google.de/books?id=M4YKAAAAIAAJ&lpg=PA1&ots=PFgsB-klG-&dq=A%20Medical%20Vocabulary%20in%20English%20and%20Chinese.%20Vocabulary%20of%20terms%20used%20in%20anatomy%2C%20medicine%2C%20materia%20medica%2C%20and%20natural%20philosophy&pg=PA10#v=onepage&q=A%20Medical%20Vocabulary%20in%20English%20and%20Chinese.%20Vocabulary%20of%20terms%20used%20in%20anatomy,%20medicine,%20materia%20medica,%20and%20natural%20philosophy&f=false). Scan in HD database.
 
 ---
 
@@ -187,13 +187,13 @@ Availability: Scan in HD database.
 
 Xia Xie 夏燮(1799-1875), *Zhong xi jishi* 中西紀事, n.p., 1865. First preface Daoguang 30 (1850), second preface Xianfeng 9 (1859)
 
-Availability: Scan of photographic reprint Taibei: Wenhai, 1962,in Heidelberg database.
+Availability: Open access at Peking University Library via [*Zhonggyuo zhexueshu dianzishu jihua*](https://ctext.org/library.pl?if=gb&res=1891). Scan of photographic reprint Taibei: Wenhai, 1962,in Heidelberg database.
 
 ### 1868
 
 Bluntschli, Johann Caspar . *Das moderne Völkerrecht der civilisirten Staaten als Rechtsbuch dargestellt*, Nördlingen: Beck'sche Buchhandlung, 1868. Chinese translation 1880 as *Gongfa huitong*.
 
-Availability: Scan in HD database.
+Availability: Open access at [Ie Universiity Library](https://hdl.handle.net/2027/hvd.32044068133446).Scan in HD database.
 
 ---
 
@@ -213,7 +213,7 @@ Availability: Scan in Heidelberg database.
 
 Chen, Jiru 陳繼儒 (1558-1639), *Zeng bu Wanbao quanshu* 增補萬寶全書: Mao Huanwen 毛煥文增補, Jiqingtang 積慶堂, 1871.
 
-Availability: Scan in HD database. Note: copy inverted, beginning in the end. Second scan in database in 4 separate files in correct order.
+Availability: Open access at [Google Books](https://play.google.com/books/reader?id=fO4pAAAAYAAJ&pg=GBS.PP1&hl=en_GB). Scan in HD database. Note: copy inverted, beginning in the end. Second scan in database in 4 separate files in correct order.
 
 ---
 
@@ -231,17 +231,17 @@ Availability: Scan on [http://kindai.ndl.go.jp/]( http://kindai.ndl.go.jp/)
 
 The later issues were put together by other authors such as蔡錫齡 Cai Xiling.
 
-Availability: SCAN of 1873 volume in Heidelberg database.
+Availability: Vol 1-51 can be downloaded as PDF file for free at [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:西國近事彙編). SCAN of 1873 volume in Heidelberg database.
 
 ---
 
 *Bankoku tsūshō ōrai,* 萬國通商往來, Tokyo: Yoshikawa Hanshichi, 吉川半七Meiji 6 \[1873\], 4, 60 leaves : ill. ; 23 cm. Japanese.
 
-Availability: UC Berkeley. Not in Heidelberg.
+Availability: Open access through [UC Berkeley Libarary](https://hdl.handle.net/2027/uc1.b3459547). Not in Heidelberg.
 
 Hepburn, J. C., *Japanese-English and English-Japanese Dictionary*, abridged by the author. New York: A.D.F. Randol\[ph and Co, 1873.
 
-Availability: Scan in HD database.
+Availability: Open access at [Google Books](https://www.google.de/books/edition/Japanese_English_and_English_Japanese_Di/H33nY7G9U_wC?hl=en&gbpv=0&kptab=overview). Scan in HD database.
 
 ---
 
@@ -249,11 +249,11 @@ Availability: Scan in HD database.
 
 *Siyi biannian biao* 四裔編年表,translation of Blair, John. *Blair's chronological tables revised and enlarged. Comprehending the chronology and history of the world, from the earliest times to the Russian treaty of peace*, April, 1856. By J. Willoughby Roses. London 1856. Translation by Young Allen and Yan Liangxun, written version by Li Fengbao, Shanghai: Jiangnan zhizaoju, 1874. 4 vols.
 
-Availability: Harvard, has master microfilm, FC-M1806 if needed copy may be ordered.
+Availability: Open access at [National Diet Library Digital Collections](https://dl.ndl.go.jp/info:ndljp/pid/988278/5). Harvard, has master microfilm, FC-M1806 if needed copy may be ordered.
 
 ---
 
-*Haidao tushuo* 海道圖説 (orig. by John William King, according to handwritten note on this book in University of Michigan Library) orally translated by John Fryer (1839-1928), noted down by Wang Dejun 王德均, Shanghai : Jiangnan zhizaoju江南 製造局, 1874. 9 vols., No illustrations. Probably translation of *The China Pilot, comprising the coasts of China, Korea, and Manchuria; the sea of Japan, the gulfs of Tartary and Amur, and the sea of Okhotsk. Compiled from various sources by staff commander John W. King*. (4. ed. **Published:**London, Printed for the Hydrographic Office, Admiralty, 1864. )
+*Haidao tushuo* 海道圖説 (orig. by John William King, according to handwritten note on this book in University of Michigan Library) orally translated by John Fryer (1839-1928), noted down by Wang Dejun 王德均, Shanghai : Jiangnan zhizaoju 江南製造局, 1874. 9 vols., No illustrations. Probably translation of *The China Pilot, comprising the coasts of China, Korea, and Manchuria; the sea of Japan, the gulfs of Tartary and Amur, and the sea of Okhotsk. Compiled from various sources by staff commander John W. King*. (4. ed. **Published:**London, Printed for the Hydrographic Office, Admiralty, 1864. )
 
 Availability: UC Berkeley. Harvard Yenching has copy in 10 vols, vol. 10 is dealing with the Changjiang. No Copy in Heidelberg. xxxx
 
