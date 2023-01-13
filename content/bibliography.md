@@ -47,8 +47,7 @@ Availability: Open access at [National Archives of Japan Digital Archive](https:
 
 *Zengding daban Wanbao quanshu* 增訂大板萬寶全書 (存卷 9), no date. Only ch. 9 preserved and accessible.
 
-Availability: Open access http://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN3303598568
-
+Availability: Open access [State Library Berlin](http://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN3303598568)
 ---
 
 ### 1728
@@ -100,7 +99,7 @@ Availability: Open access at Harvard University via [Hathi Trust](https://hdl.ha
 
 Hugh Murray ed., *An encyclopedia of geography : comprising a complete description of the earth, exhibiting its relation to the heavenly bodies, its physical structure, the natural history of each country, and the industry, commerce, political institutions, and civil and social state of all nations*, London : Longman, 1834 (second edition: 1840). 3 vols. The first American edition came out in Philadelphia: Carey, Lea and Blanchard, 1837. It was given to Lin Zexu, and his own world geography as well as that by Wei Yuan are largely based on translations from it, see under Lin Zexu 1839.
 
-Availability: A reprint edition of the vol.1 can be accessed via [Google Books](https://books.google.de/books?id=n70BAAAAYAAJ&lpg=PR1&ots=FR1EhC1oRZ&dq=The%20encyclopaedia%20of%20geography%20%3A%20comprising%20a%20complete%20description%20of%20the%20earth%2C%20physical%2C%20statistical%2C%20civil%20and%20political%2C%20exhibiting%20its%20relation%20to%20the%20heavenly%20bodies%2C%20its%20physical%20structure%2C%20the%20natural%20history%20of%20each%20country%20and%20the%20industry%2C%20commerce%2C%20political%20institutions%20and%20civil%20and%20social%20state%20of%20all%20nations&pg=PP1#v=onepage&q&f=false), of the vol.2 via [Google Books](https://www.google.de/books/edition/The_Encyclopaedia_of_Geography_Complete/YlUwen9LcfUC?hl=en&gbpv=0, and of the vol.3 via [Google Books](https://www.google.de/books/edition/The_Encyclopædia_of_Geography/jzdDAQAAMAAJ?hl=en&gbpv=0&kptab=morebyauthor). Vol 1-3 of the 1837 edition Scan in HEIDENC
+Availability: A reprint edition of the vol.1 can be accessed via [Google Books](https://books.google.de/books?id=n70BAAAAYAAJ&lpg=PR1&ots=FR1EhC1oRZ&dq=The%20encyclopaedia%20of%20geography%20%3A%20comprising%20a%20complete%20description%20of%20the%20earth%2C%20physical%2C%20statistical%2C%20civil%20and%20political%2C%20exhibiting%20its%20relation%20to%20the%20heavenly%20bodies%2C%20its%20physical%20structure%2C%20the%20natural%20history%20of%20each%20country%20and%20the%20industry%2C%20commerce%2C%20political%20institutions%20and%20civil%20and%20social%20state%20of%20all%20nations&pg=PP1#v=onepage&q&f=false), of the vol.2 via [Google Books](https://www.google.de/books/edition/The_Encyclopaedia_of_Geography_Complete/YlUwen9LcfUC?hl=en&gbpv=0), and of the vol.3 via [Google Books](https://www.google.de/books/edition/The_Encyclopædia_of_Geography/jzdDAQAAMAAJ?hl=en&gbpv=0&kptab=morebyauthor). Vol 1-3 of the 1837 edition Scan in HEIDENC
 
 ---
 
@@ -161,7 +160,7 @@ Hexin 合信 (=Benjamin Hobson, 1816-73). *Bowu xinbian* 博物新編. Shanghai:
 
 Illustrated edition by Chen Xiutang in 1898
 
-Availability: Japanese 1864 edition on-line available at [nla.gov](http://www.nla.gov.au/apps/cdview?pi=nla.gen-vn2059320-1)
+Availability: Japanese 1864 edition online available at [nla.gov](http://www.nla.gov.au/apps/cdview?pi=nla.gen-vn2059320-1)
 
 No scan in HD database.
 
@@ -253,13 +252,13 @@ Availability: Open access at [National Diet Library Digital Collections](https:/
 
 ---
 
-*Haidao tushuo* 海道圖説 (orig. by John William King, according to handwritten note on this book in University of Michigan Library) orally translated by John Fryer (1839-1928), noted down by Wang Dejun 王德均, Shanghai : Jiangnan zhizaoju 江南製造局, 1874. 9 vols., No illustrations. Probably translation of *The China Pilot, comprising the coasts of China, Korea, and Manchuria; the sea of Japan, the gulfs of Tartary and Amur, and the sea of Okhotsk. Compiled from various sources by staff commander John W. King*. (4. ed. **Published:**London, Printed for the Hydrographic Office, Admiralty, 1864. )
+*Haidao tushuo* 海道圖説 (orig. by John William King, according to handwritten note on this book in University of Michigan Library) orally translated by John Fryer (1839-1928), noted down by Wang Dejun 王德均, Shanghai : Jiangnan zhizaoju 江南製造局, 1874. 9 vols., No illustrations. Probably translation of *The China Pilot, comprising the coasts of China, Korea, and Manchuria; the sea of Japan, the gulfs of Tartary and Amur, and the sea of Okhotsk. Compiled from various sources by staff commander John W. King*. (4. ed. **Published**: London, Printed for the Hydrographic Office, Admiralty, 1864. )
 
-Availability: UC Berkeley. Harvard Yenching has copy in 10 vols, vol. 10 is dealing with the Changjiang. No Copy in Heidelberg. xxxx
+Availability: Open Access at [Hong Kong Public Libararies](https://mmis.hkpl.gov.hk/_ss?fz=海道圖說&d=1875). UC Berkeley. Harvard Yenching has copy in 10 vols, vol. 10 is dealing with the Changjiang. No Copy in Heidelberg. xxxx
 
 ---
 
-Hyakka zensho 百科全書 Translation of Chambers, William (1800-1883), Chambers, Robert (1802-1871) eds., Chambers' Information for the People: Being a series of treatises on those branches of human knowledge in which the greater part of the community are most interested, and designed to serve the chief uses of an encyclopedia at a price beyond example moderate, edited by William and Robert Chambers. London: Orr and Smith, 4^th^ edition, 1857. For the later parts of the translation, the fifth edition was used, which came out in 1874-75. For the editions used, see Fukukama, Tatsuo, Meiji shoki hyakka zensho no kenkyū, Tokyo: Kazama Shobō, 1968, pp. 53-58, 59-60. Originally this was published in numbered installments by the same name. The items were eventually bound together or reprinted as a set. Many individual items are available second hand.
+Hyakka zensho 百科全書 Translation of Chambers, William (1800-1883), Chambers, Robert (1802-1871) eds., Chambers' Information for the People: Being a series of treatises on those branches of human knowledge in which the greater part of the community are most interested, and designed to serve the chief uses of an encyclopedia at a price beyond example moderate, edited by William and Robert Chambers. London: Orr and Smith, 4th edition, 1857. For the later parts of the translation, the fifth edition was used, which came out in 1874-75. For the editions used, see Fukukama, Tatsuo, Meiji shoki hyakka zensho no kenkyū, Tokyo: Kazama Shobō, 1968, pp. 53-58, 59-60. Originally this was published in numbered installments by the same name. The items were eventually bound together or reprinted as a set. Many individual items are available second hand.
 
 Accessibility: There is some fulltext digital access to Chambers' Information for the people. Volumes 1and 2 of the 1848 and of the 1884 edition are in the Heidelberg Database. The 1835 edition, the two volume 1842 edition, have been digitized in the Gale Virtual Reference Library and are accessible for those with access to this database.
 
@@ -273,21 +272,21 @@ Availability: Scan on [http://kindai.ndl.go.jp/]( http://kindai.ndl.go.jp/)
 
 ---
 
-*Hyakka zensho* 百科全書: *Kyōdōsetsu* 教導説\[Education\]. Translation of segment of Chambers, William (1800-1883), Chambers, Robert (1802-1871). Information foer the People, 4^th^ ed. Mitsukuri Rinshō 箕作麟祥訳 tr. With a general preface on the *Hyakka zensho* by a Monbusho official, Furuya Takeshi 古屋矯 that is dated 1873. Tokyo: Monbusho, 1875.
+*Hyakka zensho* 百科全書: *Kyōdōsetsu* 教導説\[Education\]. Translation of segment of Chambers, William (1800-1883), Chambers, Robert (1802-1871). Information foer the People, 4th ed. Mitsukuri Rinshō 箕作麟祥訳 tr. With a general preface on the *Hyakka zensho* by a Monbusho official, Furuya Takeshi 古屋矯 that is dated 1873. Tokyo: Monbusho, 1875.
 
-Availability: Scan in HD database.
+Availability: The pdf can be downloaded for free via at [Waseda University Library](https://www.wul.waseda.ac.jp/kotenseki/html/to01/to01_00196/index.html); Scan in HD database.
 
 ---
 
-*Lieguo suiji zhengyao* 列國歲計政要, translation of Frederick Martin 麥丁富得力,*Statesman's Year-Book. Statistical and Historical Annual of the States of the Civilised World. Handbook for politicians and Merchants for the Year 1874* (London: Macmillan and Co, 1874), Lin Lezhi (Young Allen) orally translated, Zheng Changyan 鄭昌棪written down, Zhang Yinhuan張蔭桓(1827-1900) edited. Preface by Zheng Changyan, in 光緒紀元 (1875). The original Chinese text was published by the Jiangnan zhizaoju in Shanghai in 1875.
+*Lieguo suiji zhengyao* 列國歲計政要, translation of Frederick Martin 麥丁富得力,*Statesman's Year-Book. Statistical and Historical Annual of the States of the Civilised World. Handbook for politicians and Merchants for the Year 1874* (London: Macmillan and Co, 1874), Lin Lezhi (Young Allen) orally translated, Zheng Changyan 鄭昌棪 written down, Zhang Yinhuan張蔭桓(1827-1900) edited. Preface by Zheng Changyan, in 光緒紀元 (1875). The original Chinese text was published by the Jiangnan zhizaoju in Shanghai in 1875.
 
-Availability: 1896 reprint contained in Xixue fuqiang congshu, of which a scan is in HD database. English original in HD database under Martin_statesmansyearbook1874.
+Availability: The translation in 1875 can be accessed via [City University of Hongkong Library](https://julac-cuh.primo.exlibrisgroup.com/permalink/852JULAC_CUH/131eufo/alma991007615539703408) or its pdf file can be downloaded for free via [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:列國歲計政要); 1896 reprint contained in Xixue fuqiang congshu, of which a scan is in HD database. English original in HD database under Martin_statesmansyearbook1874.
 
 ---
 
 Li Gui 李圭, (1842-1903),*Huanyou diqiu xin lu* 環游地球新錄, 1876. Translation: *A Journey to the East: Li Gui\'s a New Account of a Trip Around the Globe*, Desnoyers, Charles A.; Li, Gui, Ann Arbor: University of Michigan Press, 2004.
 
-Availability: Reprint in Xuxiu siku quanshu in Heidelberg library, no scan.
+Availability: Open access at [*Zhongguo zhexueshu dianzihua jihua*](https://ctext.org/library.pl?if=gb&res=2343); Reprint in Xuxiu siku quanshu in Heidelberg library, no scan.
 
 Bluntschli, Johann Caspar. *Deutsche Statslehre für Gebildete*. Nördlingen: Beck'sche Buchhandlung, 1874. Chinese translations by Azuma Heiji and Hirata Tousuke.
 
@@ -309,13 +308,13 @@ The Japanese translation came out a year later:
 
 *Jiwen leibian* 記聞類編, Cai Erkang 蔡爾康,ed. Preface by Cai Erkang, Shanghai: Shanghai yinshuju 上海印書局, 1877.
 
-Classified collection of newspaper articles from the *Shenbao* newspaper from the years 1872 and 1873. Reprinted in in *Zhongguo jindai shiliao congkan*, 3^rd^ series, vols. 172-174. Taipei, Wenhai 1972.
+Classified collection of newspaper articles from the *Shenbao* newspaper from the years 1872 and 1873. Reprinted in in *Zhongguo jindai shiliao congkan*, 3rd series, vols. 172-174. Taipei, Wenhai 1972.
 
-Availability: Scan in HD database. Reprint in Heidelberg.
+Availability: The 1877 version can be accessed via [Havard-Yenching Library](http://id.lib.harvard.edu/alma/990072838120203941/catalog); Scan in HD database. Reprint in Heidelberg.
 
 Ding Weiliang 丁韙良 (William Alexander Parsons MARTIN), comp. *Zhong Xi wenjian lu xuanbian* 中西聞見錄選編. Preface by Guo Songtao. Compiler's preface. 1877. Selections from the *Zhongxi wenjian lu*, a Beijing periodical published by Westerners. Repr. In Jindai Zhongguo shiliao congkan 3 bian近代中國史料叢刊三編: 第三十二輯, vols. 311-312 Taibei: Wenhai, 1997.
 
-Availability: Scan of photomechanical reprint in HD database.
+Availability: Open access at [Heidelberg University's Early Chinese Periodicals Online](https://kjc-sv034.kjc.uni-heidelberg.de/ecpo/publications.php?magid=250&isid=42060); Scan of photomechanical reprint in HD database.
 
 ---
 
@@ -380,13 +379,13 @@ First Chinese print: Shanghai: Shenbaoguan, undated. First advertisements for th
 
 Reprint 1900.
 
-Availability: Paper copy of 1879 edition in Heidelberg and SCAN of 1900 edition (with many handwritten notes) in Heidelberg database. Scan of Shenbaoguan print in HD database.
+Availability: Open access at [*Zhongguo zhexue dianzihua jihua*](https://ctext.org/library.pl?if=gb&res=87219);Paper copy of 1879 edition in Heidelberg and SCAN of 1900 edition (with many handwritten notes) in Heidelberg database. Scan of Shenbaoguan print in HD database.
 
 ### 1880
 
 *Fuguo ce* 富國策, translated by Wang Fengcao 王鳳藻, preface by Yang Chongli 陽崇禮,with a user's guide, *fanli*, by W. A. P. Martin (Ding Weiliang 丁韙良). Peking: Tongwenguan, 1880, 光緒 6, juzhenban metal font print. Many Chinese reprints by different publishers. This is a translation of Henry Fawcett (1833-1884), *Manual of Political Economy*, originally London: Macmillan, 1863, many reprints with revisions and enlargements into the early 20^th^ century. It is most likely from the 5^th^ edition, London: Macmillan, 1876.
 
-Availability: Scan *Fuguo ce* in HEIDENC. Scan of Fawcett, *Manual*, 5th edition 1876 as book in Heidelberg database. Book edition in library..
+Availability: [Copy from Harvard Yenching Library](https://id.lib.harvard.edu/alma/990075781070203941/catalog); Scan *Fuguo ce* in HEIDENC. Scan of Fawcett, *Manual*, 5th edition 1876 as book in Heidelberg database. Book edition in library..
 
 *Gongfa huitong* 公法會通, Shanghai: Tongwenguan, 1880. Translation by Ding Weiliang 丁韙良, preface by Wang Wenshao 王文韶 and by Ding Weiliang. Translation of Johann Caspar Bluntschli, *Das Moderne Völkerrecht der civilisierten Staaten* (1868), based on the French translation by Charles Lardy, *Le droit international codifié*, Paris: Guillaumin, 1870. Title calligraphy by Dong Xun 董恂. Harvard has later print, Beijing: Beiyang shuju, 1898.
 
@@ -394,7 +393,7 @@ Availability: [Copy from Harvard Yenching Library](https://id.lib.harvard.edu/al
 
 *Ouzhou dongfang jiaoshe ji* 歐洲東方交涉記, translation of Malcolm MacColl, *Three Years of the* *Eastern Question* (London: Chatto and Windus, 1878) by Lin Yuezhi 林樂知 (Young Allan) and Qu Anglai 瞿昂來. Shanghai: Shanghai zhizaoju, 1880. Modern reprint from the original in *Shiliao sibian. Xixue fuqiang congshu xuancui* 史料四編。 西學富強叢書選萃. Taipei: Guangwen shuju, 1972, vol. 2.
 
-Availability: Scan of MaColl works and the reprint edition of the translation in HD database.
+Availability: Open access at [Kyoto University](http://kanji.zinbun.kyoto-u.ac.jp/db-machine/toho/html/E007menu.html); Scan of MaColl works and the reprint edition of the translation in HD database.
 
 ---
 
