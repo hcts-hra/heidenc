@@ -403,7 +403,7 @@ Availability: Open access at [Kyoto University](http://kanji.zinbun.kyoto-u.ac.j
 
 Reprint in 1895 unter title *Geguo tongshang shimo ji*.
 
-Availability: Reprint in Heidelberg, no scan.
+Availability: A 1891 reprint has been digitalized at [Okinawa Perpectual Library](https://www.library.pref.okinawa.jp/winj/opac/switch-detail.do?idx=14);Reprint in Heidelberg, no scan.
 
 ---
 
@@ -415,7 +415,7 @@ Photographic reprint from a late Qing edition without illustrations and Index, S
 
 Modern reprint in *Congshu jicheng xubian* 244.
 
-Availability: Microfiche of 1882 Shanghai edition, Microfiche of the 1892 Fuzhou dialect edition, and *Congshu jicheng xubian* 244 edition in print in Heidelberg. No scan. Scan of 1972 reprint edition in HD database.
+Availability: Open access via [KANSAI UNIVERSITY OPEN RESEARCH CENTER for ASIAN STUDIES](https://www.iiif.ku-orcas.kansai-u.ac.jp/books/0865#?page=1);Microfiche of 1882 Shanghai edition, Microfiche of the 1892 Fuzhou dialect edition, and *Congshu jicheng xubian* 244 edition in print in Heidelberg. No scan. Scan of 1972 reprint edition in HD database.
 
 ---
 
@@ -429,7 +429,7 @@ Availability: Scan on ndl website.
 
 *Taisei seiji ruiten* 《泰西政事類典》 (Classified cyclopedia of Western Politics). Translation of Charles Knight comp. *The Standard Library Cyclopedia of Political, Constitutional, Statistical and Forensic Knowledge*: forming a work of universal reference on subjects of civil administration, political economy, finance, commerce, laws and social relations. London: Henry G. Bohn 1845- 1860. 4 vols. (6 vols.; 1883-84)
 
-Availability: Vols. 1 and 4 on ndl website. Standard Library Cycvlopedia in HD database.
+Availability: Vols. [1](https://id.ndl.go.jp/digimeta/783451) and [4](https://id.ndl.go.jp/digimeta/783451) on National Diet Libarary. Standard Library Cycvlopedia in HD database.
 
 ---
 
@@ -479,13 +479,13 @@ All authors (with the exception of Okamoto, who wrote in Chinese) are Chinese, n
 -  Zhu Kejing, *Rouyuan xinshu* 柔遠新書
 -  Zhuge Liang, *Huogong beiyao* 火攻備要
 
-Availability: Copy in Heidelberg and SCAN in HEIDENC..
+Availability: All contents of 敦懷堂洋務叢鈔 in 1884 can be accessed on [*Zhongguo zhexueshu dianzihua jihua*](https://ctext.org/library.pl?if=gb&collection=66);Copy in Heidelberg and SCAN in HEIDENC..
 
 ---
 
 *Wanguo zongshuo* 萬國總說, Okamoto, Kansuke 岡本監輔, (1839-1904), in *Yangwu congchao*, 1884. Later also in *Xixue fuqiang congshu*.
 
-Availability: SCAN in Heidelberg as part of *Yangwu congchao*, vol. 6 and as part of *Xixue fuqiang congshu, shixue bu* 史學部.
+Availability: Open access via [National Diet Library](https://id.ndl.go.jp/digimeta/2931764); SCAN in Heidelberg as part of *Yangwu congchao*, vol. 6 and as part of *Xixue fuqiang congshu, shixue bu* 史學部.
 
 *Taisei seiji ruiten* 泰西政事類典 (Encyclopaedia of political affairs in the West) by 石川暎作 Ishikawa Eisaku (1885-1886), 東京：経済雑誌社, 1884-86. ５冊（別冊共）Japanese. According to Kang Youwei, several reprints. Ishikawa seems to have cooperated with others. This is a translation of *The Standard Library Cyclopedia of Political, Constitutional, Statistical and Forensic Knowledge, Forming a Work of Universal Reference on subjects of Civil Administration, Political Economy, Finance, Commerce, Laws and Social Relations: forming a work of universal reference on subjects of civil administration, political economy, finance, commerce, laws and social relations,* London: Henry G. Bohn, 1860, 4 vols. This is an exact reprint of a 1848-1849 edition. This edition in turn is an exact reprint of *Political dictionary : forming a work of universal reference, both constitutional and legal : and embracing the terms of civil administration, of political economy and social relations, and of all the more important statistical departments of finance and commerce*. London: C. Knight and Co., 1845-1846. This in turn is mostly drawing on G. Long ed., *The Penny Cyclopaedia of the Society for the Diffusion of Useful Knowledge*, London: Charles Knight, 1833-1843. According to the preface in the *Standard Library Cyclopedia*, many articles there have been taken unaltered from the Penny Cyclopedia.
 
@@ -498,7 +498,7 @@ Availability:
 
 ---
 
-Yuan Zuzhi 袁祖志, *Tan ying lu*談瀛錄, Shanghai: Tongwen shuju同文書局, 1884. 
+Yuan Zuzhi 袁祖志, *Tan ying lu*談瀛錄, Shanghai: Tongwen shuju 同文書局, 1884. 
 
 Availability: Scan in Heidelberg database.
 
@@ -532,7 +532,7 @@ Contents:
 - 羅馬 志略 13 卷. 
 - 歐洲 史略 13 卷
 
-Availability: Heidelberg , Microfiche. 1898 edition. 上海圖書集成印書局
+Availability: The 1898 repreint can be accessed through [Chinese Rare Books at Havard Library](https://id.lib.harvard.edu/curiosity/chinese-rare-books/49-990081664360203941); Heidelberg , Microfiche. 1898 edition. 上海圖書集成印書局
 
 Reprints 1896, 1898.
 
@@ -564,7 +564,7 @@ Shangtu: 线普  536320-27 not clear which edition and year.
 
 Availability: English text of 1866 edition in Heidelberg database. [URL](http://books.google.com/books?id=CxMDAAAAQAAJ&printsec=frontcover&dq=inauthor:%22Peter+Squire%22&cd=5#v=onepage&q=&f=false)
 
-Chinese edition (3^rd^ printing, 1898), available [on-line](http://nla.gov.au/nla.gen-vn354895)
+Chinese edition (3^rd^ printing, 1898), available [online](http://nla.gov.au/nla.gen-vn354895)
 
 *Guochao yangwu xinlun* 國朝洋務新論, 2 juan, s.l. Jiyuexuan 寄月軒, 1886.
 
@@ -588,7 +588,7 @@ Availability: Scan on [http://kindai.ndl.go.jp/]( http://kindai.ndl.go.jp/)
 
 Chen Meigong 陳眉公 (Ming comp.), *Huitu Wanbao quanshu*繪圖萬寶全書 20卷 , 1886, reprint of 1739 edition.
 
-Availability: Held by Berlin State Library, planned for digitization. 2016
+Availability: Open access via [Berlin State Library](http://resolver.staatsbibliothek-berlin.de/SBB0001602D00000000).
 
 ---
 
@@ -623,7 +623,7 @@ Availability: UC Berkeley. Columbia. Scan in HD database.
 
 Book with the same title but different author in 1895
 
-Reprint: 1895. 上海 : 醉六堂書坊 Shanghai : Zuiliutang shufang. There given with a different author by the中国政法大学图书馆, which also holds the item, namely Sun Tinghan 孙廷翰. [The Kanseki database](http://kanji.zinbun.kyoto-u.ac.jp/kanseki?record=data/FA001379/tagged/0951026.dat&back=4), gives Lu Yunpeng 盧雲鵬 and Wang Fengqi 王鳳祺 as editors. And has a content list:
+Reprint: 1895. 上海 : 醉六堂書坊 Shanghai : Zuiliutang shufang. There given with a different author by the 中国政法大学图书馆, which also holds the item, namely Sun Tinghan 孙廷翰. [The Kanseki database](http://kanji.zinbun.kyoto-u.ac.jp/kanseki?record=data/FA001379/tagged/0951026.dat&back=4), gives Lu Yunpeng 盧雲鵬 and Wang Fengqi 王鳳祺 as editors. And has a content list:
 
 -  子編 算學
    -  句股弦一卷 明 徐光啓 撰
@@ -704,11 +704,11 @@ Reprint: Cai Mei'an 蔡梅庵comp. *Cexue dacheng* 策學大成, full title Cexu
 
 Availability: Scan on [http://kindai.ndl.go.jp/]( http://kindai.ndl.go.jp/)
 ---
-Yueqinshi zhuren 月琴室主人 comp.*Zeng guang shiwu xince huibian*增廣時務新策彙編. 1888. Shanghai: Datong shuju 大同書局Lithograph. Handbook of literati knowledge of governance with a chapter on Yangwu in the end.
+Yueqinshi zhuren 月琴室主人 comp.*Zeng guang shiwu xince huibian* 增廣時務新策彙編. 1888. Shanghai: Datong shuju 大同書局Lithograph. Handbook of literati knowledge of governance with a chapter on Yangwu in the end.
 
 Availability: Scan of preface, table of contents, ch. 1 and 2 in HD database.
 ---
-Li Timotai李提摩太 (Timothy Richard): *Qi guo xinxue beiyao* 七國新學備要。Shanghai: Guangxuehui, finished in 1888, copy in 1892. 1 vol. In preface that is reprinted in *Xinxue beiyao*, Richard writes: 内中写道: "何谓横? 我国所重之学, 学之; 即各国所重之要学, 亦学之。何谓纵? 一国要学中, 有当损益者知之, 即自古至今, 历代之因何而损、因何而益者, 益必知之。何谓普? 斯人所需之要学, 无不兼包并举, 可以详古人之所略, 并可以补近人之不足。上天所造之物, 无不精思审处, 不使有　格之难通,
+Li Timotai 李提摩太 (Timothy Richard): *Qi guo xinxue beiyao* 七國新學備要。Shanghai: Guangxuehui, finished in 1888, copy in 1892. 1 vol. In preface that is reprinted in *Xinxue beiyao*, Richard writes: 内中写道: "何谓横? 我国所重之学, 学之; 即各国所重之要学, 亦学之。何谓纵? 一国要学中, 有当损益者知之, 即自古至今, 历代之因何而损、因何而益者, 益必知之。何谓普? 斯人所需之要学, 无不兼包并举, 可以详古人之所略, 并可以补近人之不足。上天所造之物, 无不精思审处, 不使有　格之难通,
 
 并不使有纤毫之未达, 则普学之说也。何谓专? 专精一学, 而能因事比类, 出其新解至理于所学之中,莫不掠其奇而悦其异, 则专学之说也。是皆新学之大纲也。"此外, 1896 年广学会刊刻的《文学兴国策》, 也广泛介绍了各国学制。(Zhang Qing quotes, "采西学":学科次第之论辩及其意义, 历　史　研　究2007 年第3 期　
 
@@ -781,9 +781,9 @@ Availability: Scan in Heidelberg database.
 
 ---
 
-Tang Zhen 唐震, *Weiyan* 危言, N.P.: Wentingge tushu gongsi文听閣圖書公司, 1890.
+Tang Zhen 湯震, *Weiyan* 危言, N.P.: Wentingge tushu gongsi 文听閣圖書公司, 1890.
 
-Reprinted in 1898 under the title *Zhong Xi shiwu Wei yan* 中西時務危言
+Reprinted in 1898 under the title *Zhongxi shiwu weiyan* 中西時務危言
 
 Availability : Stanford University. Scan in HD database only of later print.
 
@@ -874,7 +874,7 @@ Availability: Scan on [http://kindai.ndl.go.jp/]( http://kindai.ndl.go.jp/)
 
 Reprint of: *Wanguo yaofang* 《萬國葯方》(1886).
 
-Availability: Worldcat entry, without library indication.
+Availability: Open access via [National Library of Australia](http://nla.gov.au/nla.obj-80320626)
 
 ---
 
