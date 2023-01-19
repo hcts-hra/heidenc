@@ -37,7 +37,7 @@ Availability: [Copy from Harvard Yenching library](http://id.lib.harvard.edu/alm
 
 Ai Nanying 艾南英 (Ming), comp. *Xinke Ai xiansheng Tianluge huibian caijing bianlan Wanbao quanshu* 新刻艾先生天禄閣彙編採精便覧萬寶全書, 37 juan , \[Tanyi 潭邑\] Zunrentang 存仁堂, Ming 崇禎1 (1628) printed by Chen Huaigan, 陳懷軒. Rich in illustrations some of them colored. Some high quality illustrations at the head of individual chapters.
 
-Availability: Scan from Keio Univ. in HD database, chapters 1-3 in correct page sequence, all other chapters start from the end and cannot be reverted.
+Availability: Open Access at [Google Books](https://play.google.com/store/books/details?id=jQkoLKqTDLIC&rdid=book-jQkoLKqTDLIC&rdot=1); Scan from Keio Univ. in HD database, chapters 1-3 in correct page sequence, all other chapters start from the end and cannot be reverted.
 
 *Xin ke Meigong Chen xian sheng bian ji Zhu shu bei cai wan juan sou qi quan shu*, 新刻眉公陳先生編纂諸書俻採萬卷搜奇全書目錄, 37 juan , 6 vols. Illustrated without color.\[Tanyi 潭邑\] Zunrentang 存仁堂, Ming 崇禎1 (1628) printed by Chen Huaigan, 陳懷軒
 
@@ -115,15 +115,16 @@ Availability: Open access to [*Chamber's Journal 1832-1956*](https://archive.org
 
 ### 1839
 
-Lin Zexu 林則徐, *Sizhou zhi* 四洲志, 1839/1840。Selection reprinted in Wang Xiqi 王錫祺, Xiaofanghuzhai yudi congchao zai bupian 小方壺齋輿地叢鈔再補編, Shanghai: Zhuyitang著易堂,  1900. Based on translations from Hugh Murray eds., *An encyclopedia of geography : comprising a complete description of the earth, exhibiting its relation to the heavenly bodies, its physical structure, the natural history of each country, and the industry, commerce, political institutions, and civil and social state of all nations*, London : Longman, 1834 (second edition: 1840). A copy of the first edition was seemingly given to Lin Zexu by the missionary Samuel Robbins Brown (1810-1880). Much of it is included into Wei Yuan's *Haiguo tuzhi*.
+Lin Zexu 林則徐, *Sizhou zhi* 四洲志, 1839/1840。Selection reprinted in Wang Xiqi 王錫祺, Xiaofanghuzhai yudi congchao zai bupian 小方壺齋輿地叢鈔再補編, Shanghai: Zhuyitang著易堂, 1900. Based on translations from Hugh Murray eds., *An encyclopedia of geography : comprising a complete description of the earth, exhibiting its relation to the heavenly bodies, its physical structure, the natural history of each country, and the industry, commerce, political institutions, and civil and social state of all nations*, London : Longman, 1834 (second edition: 1840). A copy of the first edition was seemingly given to Lin Zexu by the missionary Samuel Robbins Brown (1810-1880). Much of it is included into Wei Yuan's *Haiguo tuzhi*.
 
 Availability: Print edition in Heidelberg library.
 
 ### 1846
 
-Lin Zexu 林則徐, *Yangshi zalu* 洋事雑錄,1846. Unpubl. Manuscript in Shanghai Academy of Social Sciences. Transscribed in simplified characters in:
+Lin Zexu 林則徐, *Yangshi zalu* 洋事雑錄, 1846. Unpubl. Manuscript in Shanghai Academy of Social Sciences. Transscribed in simplified characters in:
 
-陈德培; 林永俣; 孟彭兴, "林则徐《洋事杂录》", in 中山大学学报(社会科学版) , 编辑部邮箱 1986年 03期, 14-34. Contains a short description of the Rees encyclopedia. Abraham Rees (1743-1825), *The cyclopædia; or, Universal dictionary of arts, sciences, and literature*. See 1818-20*. With the assistance of eminent professional gentlemen. ; Illustrated with numerous engravings, by the most distinguished artists*. ; In forty-one volumes. Vol. I\[-XLI\]. Edition: First American edition, revised, corrected, enlarged, and adapted to this country, by several literary and scientific characters. Published: Philadelphia: : Published by Samuel F. Bradford, and Murray, Fairman and Co. Peter A. Mesier, New-York; etc., The forty-one volumes were first issued in 87 parts, in printed boards, from 1805 to 1825. Title pages and half-titles to the 41 vols. were issued in the 87th part (Vol. XLI, Part III).
+陈德培; 林永俣; 孟彭兴, "林则徐《洋事杂录》", in 中山大学学报(社会科学版), 编辑部邮箱 1986年 03期, 14-34. Contains a short description of the Rees encyclopedia. Abraham Rees (1743-1825), *The cyclopædia; or, Universal dictionary of arts, sciences, and literature*. See 1818-20*. With the assistance of eminent professional gentlemen. ; Illustrated with numerous engravings, by the most distinguished artists*. ; In forty-one volumes. Vol. I\[-XLI\]. Edition: First American edition, revised, corrected, enlarged, and adapted to this country, by several literary and scientific characters. Published: Philadelphia: : Published by Samuel F. Bradford, and Murray, Fairman and Co. Peter A. Mesier, New-York; etc., The forty-one volumes were first issued in 87 parts, in printed boards, from 1805 to 1825. Title pages and half-titles to the 41 vols. were issued in the 87th part (Vol. XLI, Part III).
+
 Cover title: Dr. Rees\'s new cyclopædia. (This encyclopedia is accessible on-line via Gale.)
 
 Availability: Scan in Heidelberg database.
@@ -136,9 +137,9 @@ Availability: Open access at [Jean and Alexander Heard Libraries](https://catalo
 
 ---
 
-Xu Zhiyu 徐繼畬 (1795-1873), *Yinghuan zhilüe*瀛寰誌略, 1848, reprint Shanghai: Shanghai shudian 2002.
+Xu Zhiyu 徐繼畬 (1795-1873), *Yinghuan zhilüe* 瀛寰誌略, 1848, reprint Shanghai: Shanghai shudian 2002.
 
-Availability: Print edition in Heidelberg.
+Availability: Oepn Access at [National Library of Australia](http://nla.gov.au/nla.obj-114731594)  Print edition in Heidelberg.
 
 ### 1850
 
@@ -160,9 +161,7 @@ Hexin 合信 (=Benjamin Hobson, 1816-73). *Bowu xinbian* 博物新編. Shanghai:
 
 Illustrated edition by Chen Xiutang in 1898
 
-Availability: Japanese 1864 edition online available at [nla.gov](http://www.nla.gov.au/apps/cdview?pi=nla.gen-vn2059320-1)
-
-No scan in HD database.
+Availability: Japanese 1864 edition online available at [nla.gov](http://www.nla.gov.au/apps/cdview?pi=nla.gen-vn2059320-1)；No scan in HD database.
 
 ---
 
@@ -204,7 +203,7 @@ Availability: Scan in HD database.
 
 ---
 
-Nishi, Amane 西 周(1829-1897): "Hyakugaku renkan bunsho"百學連環聞書 Encyclopedia, (明治3, 1869) in *Nishi Amane zenshū* 西周全集, Ōkubo Toshiaki 大久保利ed., Tōkyō : Nihon Hyōronsha日本評論社, 1945,  41-6
+Nishi, Amane 西 周(1829-1897): "Hyakugaku renkan bunsho" 百學連環聞書 Encyclopedia, (明治3, 1869) in *Nishi Amane zenshū* 西周全集, Ōkubo Toshiaki 大久保利ed., Tōkyō : Nihon Hyōronsha 日本評論社, 1945, 41-6
 
 Availability: Scan in Heidelberg database.
 
@@ -262,7 +261,7 @@ Hyakka zensho 百科全書 Translation of Chambers, William (1800-1883), Chamber
 
 Accessibility: There is some fulltext digital access to Chambers' Information for the people. Volumes 1and 2 of the 1848 and of the 1884 edition are in the Heidelberg Database. The 1835 edition, the two volume 1842 edition, have been digitized in the Gale Virtual Reference Library and are accessible for those with access to this database.
 
-The Japanese translation appeared in selected items sponsored by the Mombusho文部省, 1875-1885. Many local reprints. Not all of the individual titles have been included into this bibliography. Japanese.
+The Japanese translation appeared in selected items sponsored by the Mombusho 文部省, 1875-1885. Many local reprints. Not all of the individual titles have been included into this bibliography. Japanese.
 
 ### 1875
 
@@ -288,9 +287,9 @@ Li Gui 李圭, (1842-1903),*Huanyou diqiu xin lu* 環游地球新錄, 1876. Tran
 
 Availability: Open access at [*Zhongguo zhexueshu dianzihua jihua*](https://ctext.org/library.pl?if=gb&res=2343); Reprint in Xuxiu siku quanshu in Heidelberg library, no scan.
 
-Bluntschli, Johann Caspar. *Deutsche Statslehre für Gebildete*. Nördlingen: Beck'sche Buchhandlung, 1874. Chinese translations by Azuma Heiji and Hirata Tousuke.
+Bluntschli, Johann Caspar. *Deutsche Statslehre für Gebildete*. Nördlingen: Beck'sche Buchhandlung, 1874. Chinese translations 國家論 by Azuma Heiji and Hirata Tousuke.
 
-Availability: Scan in HD database.
+Availability: The Original Version in German can be found in [Google Books](https://books.google.de/books?id=VpJfAAAAcAAJ&pg=PR3#v=onepage&q&f=false); Scan in HD database.
 
 ---
 
@@ -300,9 +299,7 @@ Availability: Scan in HD database.
 
 Availability: SCAN in Heidelberg database. Scan of second edition of the original (1864) in Heidelberg database.
 
-The Japanese translation came out a year later:
-
-日本在明治11年 （1878）出版訓點本。
+The Japanese translation came out a year later: 日本在明治11年 （1878）出版訓點本。
 
 ---
 
@@ -349,7 +346,7 @@ Cai Mei'an 蔡梅庵 comp. *Cexue dacheng* 策學大成, full title *Cexue zongz
 ![Cexue dacheng](img/cxdc1.jpg "Source: [http://imgditan.cang.com](http://imgditan.cang.com/201308/02/2013080214315099171432.jpg)")
 ![Cexue dacheng](img/cxdc2.jpg "Source: [http://imgditan.cang.com](http://imgditan.cang.com/201308/02/2013080214315773872901.jpg)")
 
-Source: mentioned in Liu Changling劉昌齡 preface to *Cefu tongzong* (1889), reprint on commission Shanghai: Dianshizhai, 1888
+Source: mentioned in Liu Changling 劉昌齡 preface to *Cefu tongzong* (1889), reprint on commission Shanghai: Dianshizhai, 1888
 
 Availability: Info from pages reproduced on [online sales catalogue](http://www.cang.com/trade/show-5673563-2.html), not in HD database.---
 
@@ -441,7 +438,7 @@ Availability: Scan in HD database.
 
 ### Before 1884
 
-*Yangwu jiyao* 洋務輯要, Shen Chu沈純. Before 1884. Mentioned in preface to his *Xishi leibian*.
+*Yangwu jiyao* 洋務輯要, Shen Chu 沈純. Before 1884. Mentioned in preface to his *Xishi leibian*.
 
 Availability: Not located. RW.
 
@@ -498,13 +495,13 @@ Availability:
 
 ---
 
-Yuan Zuzhi 袁祖志, *Tan ying lu*談瀛錄, Shanghai: Tongwen shuju 同文書局, 1884. 
+Yuan Zuzhi 袁祖志, *Tan ying lu* 談瀛錄, Shanghai: Tongwen shuju 同文書局, 1884. 
 
 Availability: Scan in Heidelberg database.
 
 ---
 
-Matsumura Jinzō 松村,任三（１８５６−１９２８）, *Nihon shokubutsu meii*日本植物名彙, English title: or nomenclature of Japanese plants in Latin, Japanese and Chinese, Tokyo: Maruya 丸善 1884. Source for plant terminology in *Bianyi putong jiaoyu baike quanshu* (1903), according to its bibliography.
+Matsumura Jinzō 松村,任三（１８５６−１９２８）, *Nihon shokubutsu meii* 日本植物名彙, English title: or nomenclature of Japanese plants in Latin, Japanese and Chinese, Tokyo: Maruya 丸善 1884. Source for plant terminology in *Bianyi putong jiaoyu baike quanshu* (1903), according to its bibliography.
 
 Availability: Scan on [http://kindai.ndl.go.jp/]( http://kindai.ndl.go.jp/)
 
@@ -608,8 +605,7 @@ No copy or scan in Heidelberg.
 
 ---
 
-*Xishi leibian* 西事類編, Shen Chun (Cuisheng), 沈純 (粹生)
-2 vols., 16 juan. Shanghai: Shenbaoguan 申 報館, 丁亥年 \[1887\] . Preface: Guangxu 10 (1884) by Cheng Xianchao 程咸焯. Excerpts from the diaries of early Chinese ambassadors, Chinese world descriptions and travelogues, and some document collections, organized according to topics, with often lengthy systematic summaries by the editor. 程紀, 交涉,聘問,禮制,國用, 政治,形勢,武俻,文藝,民俗,宫室,善举,器具,商蕒,教会,物産 A list of the seventeen works consulted is given in the beginning together with detailed information about their authors and contents. Reprint 1919.
+*Xishi leibian* 西事類編, Shen Chun (Cuisheng), 沈純 (粹生). 2 vols., 16 juan. Shanghai: Shenbaoguan 申 報館, 丁亥年 \[1887\] . Preface: Guangxu 10 (1884) by Cheng Xianchao 程咸焯. Excerpts from the diaries of early Chinese ambassadors, Chinese world descriptions and travelogues, and some document collections, organized according to topics, with often lengthy systematic summaries by the editor. 程紀, 交涉,聘問,禮制,國用, 政治,形勢,武俻,文藝,民俗,宫室,善举,器具,商蕒,教会,物産 A list of the seventeen works consulted is given in the beginning together with detailed information about their authors and contents. Reprint 1919.
 
 Availability: Heidelberg SCAN of Shenbaoguan 1887 edition.
 
@@ -700,17 +696,19 @@ Reprint: Cai Mei'an 蔡梅庵comp. *Cexue dacheng* 策學大成, full title Cexu
 
 ---
 
-*Bankoku genkô kenpô hikaku*万国現行憲法比較, by辰巳小二郎 Toshimi Kojirō , 東京：哲学書院, 1888, ２３０ｐ；１９ｃｍ. Japanese.
+*Bankoku genkô kenpô hikaku* 万国現行憲法比較, by辰巳小二郎 Toshimi Kojirō , 東京：哲学書院, 1888, ２３０ｐ；１９ｃｍ. Japanese.
 
 Availability: Scan on [http://kindai.ndl.go.jp/]( http://kindai.ndl.go.jp/)
+
 ---
+
 Yueqinshi zhuren 月琴室主人 comp.*Zeng guang shiwu xince huibian* 增廣時務新策彙編. 1888. Shanghai: Datong shuju 大同書局 Lithograph. Handbook of literati knowledge of governance with a chapter on Yangwu in the end.
 
 Availability: Scan of preface, table of contents, ch. 1 and 2 in HD database.
----
-Li Timotai 李提摩太 (Timothy Richard): *Qi guo xinxue beiyao* 七國新學備要。Shanghai: Guangxuehui, finished in 1888, copy in 1892. 1 vol. In preface that is reprinted in *Xinxue beiyao*, Richard writes: 内中写道: "何谓横? 我国所重之学, 学之; 即各国所重之要学, 亦学之。何谓纵? 一国要学中, 有当损益者知之, 即自古至今, 历代之因何而损、因何而益者, 益必知之。何谓普? 斯人所需之要学, 无不兼包并举, 可以详古人之所略, 并可以补近人之不足。上天所造之物, 无不精思审处, 不使有　格之难通,
 
-并不使有纤毫之未达, 则普学之说也。何谓专? 专精一学, 而能因事比类, 出其新解至理于所学之中,莫不掠其奇而悦其异, 则专学之说也。是皆新学之大纲也。"此外, 1896 年广学会刊刻的《文学兴国策》, 也广泛介绍了各国学制。(Zhang Qing quotes, "采西学":学科次第之论辩及其意义, 历　史　研　究2007 年第3 期　
+---
+
+Li Timotai 李提摩太 (Timothy Richard): *Qi guo xinxue beiyao* 七國新學備要。Shanghai: Guangxuehui, finished in 1888, copy in 1892. 1 vol. In preface that is reprinted in *Xinxue beiyao*, Richard writes: 内中写道: "何谓横? 我国所重之学, 学之; 即各国所重之要学, 亦学之。何谓纵? 一国要学中, 有当损益者知之, 即自古至今, 历代之因何而损、因何而益者, 益必知之。何谓普? 斯人所需之要学, 无不兼包并举, 可以详古人之所略, 并可以补近人之不足。上天所造之物, 无不精思审处, 不使有　格之难通, 并不使有纤毫之未达, 则普学之说也。何谓专? 专精一学, 而能因事比类, 出其新解至理于所学之中,莫不掠其奇而悦其异, 则专学之说也。是皆新学之大纲也。"此外, 1896 年广学会刊刻的《文学兴国策》, 也广泛介绍了各国学制。(Zhang Qing quotes, "采西学":学科次第之论辩及其意义, 历史研究2007年 第3期　
 
 Availability: No copy located (2016).
 
@@ -1162,7 +1160,7 @@ Availability: Scan on [http://kindai.ndl.go.jp/]( http://kindai.ndl.go.jp/)
 
 ### 1895
 
-*Fenlei yangwu jingji shishi lun* 分類洋務經濟時事論（1895）,reprint of the 1894 *Yangwu xinlun* 洋務新論,Zhangbai Zhong Ying 長白仲英
+*Fenlei yangwu jingji shishi lun* 分類洋務經濟時事論（1895）, reprint of the 1894 *Yangwu xinlun* 洋務新論,Zhangbai Zhong Ying 長白仲英
 
 Availability: Not in Heidelberg database.
 
@@ -1211,9 +1209,9 @@ Song, Yuren 宋育仁. Caifeng ji 采風記 4 juan；Critical intro to old and n
 
 Availability: Caifeng ji in *Zhixue congshu* *chuji* 質學叢書初集. Rest not available. Copy in Harvard and Bayerische Staatsbibliothek. Can be ordered there as [pdf](http://www.books2ebooks.eu/odm/orderformular.do?lang=en&formular_id=43&sys_id=31821145).
 
-Chen Yaoqing 陳燿卿,*Shishi xinbian chu ji* 時事新編初集. 1895, metal fonts. Prefaces by Gao Rongtai 高瑩臺,Xian Yujin 閒漁謹, Li Guiyou 李貴猷. 6 juan.
+Chen Yaoqing 陳燿卿, *Shishi xinbian chu ji* 時事新編初集. 1895, metal fonts. Prefaces by Gao Rongtai 高瑩臺,Xian Yujin 閒漁謹, Li Guiyou 李貴猷. 6 juan.
 
-Availability: Scan in Heidelberg database..
+Availability: Scan in Heidelberg database.
 
 ---
 
@@ -1282,13 +1280,9 @@ Availability:. Open accesse at [Harvard-Yenching Library](http://id.lib.harvard.
 ---
 
 
-Reprint of: *Xixue dacheng* 西學大成 (1888).
+Reprint of: *Xixue dacheng* 西學大成 (1888). Reprint: 1895. 上海 : 醉六堂書坊 Shanghai : Zuiliutang shufang.
 
-Availability: UC Berkeley. No Copy in Heidelberg.
-
-Reprint: 1895. 上海 : 醉六堂書坊 Shanghai : Zuiliutang shufang.
-
-> 西學大成/孫廷翰書. Is this different set?
+Availability: Open Access via [Google Books](https://books.google.de/books/about/西學大成.html?id=fMZGAAAAYAAJ&redir_esc=y). UC Berkeley. No Copy in Heidelberg.
 
 ---
 
