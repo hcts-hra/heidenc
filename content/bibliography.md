@@ -568,7 +568,7 @@ Chinese edition (3^rd^ printing, 1898), available [online](http://nla.gov.au/nla
 
 *Guochao yangwu xinlun* 國朝洋務新論, 2 juan, s.l. Jiyuexuan 寄月軒, 1886.
 
-Availability: Scan in HD database.
+Availability: Open access via [Hathi Trust Digital Library](https://hdl.handle.net/2027/wu.89009315326) Scan in HD database.
 
 ---
 
@@ -578,7 +578,7 @@ Availability: Scan on [http://kindai.ndl.go.jp/]( http://kindai.ndl.go.jp/)
 
 ---
 
-*Wanguo yutu* 萬國輿圖, Chen Zhaotong 陳兆桐drafted. Shanghai Shanghai : Tongwen shu ju, Guangxu 12 \[1886\] 上海 : 同文書局, 光緖12 \[1886\]: chiefly maps ; 41 cm.
+*Wanguo yutu* 萬國輿圖, Chen Zhaotong 陳兆桐 drafted. Shanghai Shanghai : Tongwen shu ju, Guangxu 12 \[1886\] 上海 : 同文書局, 光緖12 \[1886\]: chiefly maps ; 41 cm.
 
 Availability: UC Berkeley. No copy in Heidelberg.
 
@@ -619,7 +619,7 @@ Availability: Heidelberg SCAN of Shenbaoguan 1887 edition.
 
 *Xixue dacheng* 西學大成, Wang Xiqing 王西清, Lu Tiqing 盧梯青, 十二編 12 sections, 28 冊, Shanghai: Datong shuju, Lithography. 1888, source: Amelung paper, Heidelberg. http://www.gujibook.com/gujide_17611/
 
-Availability: UC Berkeley. Columbia. Scan in HD database.
+Availability: Open access via [Google Books](https://books.google.de/books/about/西學大成.html?id=fMZGAAAAYAAJ&redir_esc=y); UC Berkeley. Columbia. Scan in HD database.
 
 Book with the same title but different author in 1895
 
@@ -704,7 +704,7 @@ Reprint: Cai Mei'an 蔡梅庵comp. *Cexue dacheng* 策學大成, full title Cexu
 
 Availability: Scan on [http://kindai.ndl.go.jp/]( http://kindai.ndl.go.jp/)
 ---
-Yueqinshi zhuren 月琴室主人 comp.*Zeng guang shiwu xince huibian* 增廣時務新策彙編. 1888. Shanghai: Datong shuju 大同書局Lithograph. Handbook of literati knowledge of governance with a chapter on Yangwu in the end.
+Yueqinshi zhuren 月琴室主人 comp.*Zeng guang shiwu xince huibian* 增廣時務新策彙編. 1888. Shanghai: Datong shuju 大同書局 Lithograph. Handbook of literati knowledge of governance with a chapter on Yangwu in the end.
 
 Availability: Scan of preface, table of contents, ch. 1 and 2 in HD database.
 ---
@@ -738,13 +738,13 @@ Contents:
 5. Taixi zhushu kao 泰西著述考, Wang Tao 王韜 comp. 1 j.
 6. Hua Ying tongshang shilue 華英通商史略, Weilieyali (Wylie), 1 j. orally translated, Wang Tao noted down, 偉烈亞力口譯,王韜撰。
 
-Availability: SCAN in Heidelberg database.
+Availability: 西學原始考 can be accessed via [Hathi Trust Digital Library](https://hdl.handle.net/2027/uiug.30112029468433); 泰西著述考 has been digitalized at [Taiwan E-Learning and Digital Archives Program](https://ebook.teldap.tw/ebook_detail.jsp?id=321); SCAN in Heidelberg database.
 
 ---
 
 *Cefu tongzong*《策府統宗》65卷24冊, Cai Mei'an 蔡梅庵 comp. 光緒 15年（1889）, Shanghai: Hongwen shuju, 上海鴻文書局 lithography. Preface by Liu Changling 劉昌齡 1888, second preface by publisher. Claim, that it is "newly compiled". Enlarged reprint: 1895. Encyclopedia of traditional elite knowledge, no new knowledge included.
 
-Availability: Heidelberg database SCAN of 1889 edition.
+Availability: Open access Heidelberg database SCAN of 1889 edition.
 
 ---
 
@@ -759,7 +759,7 @@ Bankoku rekishi zensho 万国歴史全書, Naitō Chisō 内藤恥叟(1826-1902)
 - 10\. 魯国史 / 北村三郎著,博文館, 明２３．６. - (万国歴史全書 ; 第９編)
 - 9\. 米国史 / 川島純幹著,博文館, 明２３．１０. - (万国歴史全書 ; 第１２編)
 
-The complete list in this series will be found in:
+The complete list in this series will be found in: 
 
 - 7\. 博文館発行図書いろは別目録,博文館, 〔　　〕
 
@@ -767,7 +767,7 @@ Availability: Scan on [http://kindai.ndl.go.jp/]( http://kindai.ndl.go.jp/)
 
 ---
 
-Bluntschli, Johan Caspar. *Deutsche Statslehre für Gebildete*. Nördlingen 1874. Japanese translation as *Kokkaron* 國家論,Hirata Tousuke 平田東助, Hiratsuka Sadajirou 平塚, 定二郎, Shobara Kazu 庄原和, tr.Tokyo: Shonyōdō, 1882. Reprint of an 1882 edition, Tokyo： Shimaya ikkai。
+Bluntschli, Johan Caspar. *Deutsche Statslehre für Gebildete*. Nördlingen 1874. Japanese translation as *Kokkaron*, Hirata Tousuke 平田東助, Hiratsuka Sadajirou 平塚, 定二郎, Shobara Kazu 庄原和, tr. Tokyo: Shonyōdō, 1882. Reprint of an 1882 edition, Tokyo： Shimaya ikkai。
 
 Availability: Scan in HD database.
 
@@ -775,7 +775,7 @@ Availability: Scan in HD database.
 
 ### 1890
 
-Jiang Biao 江標 (1860-1899), comp. *Gezhi jinghua lu*- *houfu*: *Deguo yiyuan zhangcheng, hemeng jishe benmo* 格致精華錄 ,後附：德國議院章程;德國合盟紀事本末(Record of the Quintessence of Science, Appendix: Statutes of the German parliament; Record of Germany forming an federal state ), (Shanghai?) no publ data, about 1890, 4 juan. Preface by Zhang Zhidong 張之洞. Organized in 33 bu 部. Documents that all Western science has been there first in China.
+Jiang Biao 江標 (1860-1899), comp. *Gezhi jinghua lu*- *houfu*: *Deguo yiyuan zhangcheng, hemeng jishe benmo* 格致精華錄, 後附：德國議院章程;德國合盟紀事本末 (Record of the Quintessence of Science, Appendix: Statutes of the German parliament; Record of Germany forming an federal state), (Shanghai?) no publ data, about 1890, 4 juan. Preface by Zhang Zhidong 張之洞. Organized in 33 bu 部. Documents that all Western science has been there first in China.
 
 Availability: Scan in Heidelberg database.
 
@@ -1096,27 +1096,27 @@ Availability: Scan on [http://kindai.ndl.go.jp/]( http://kindai.ndl.go.jp/)c
 
 Li Timotai 李提摩太 (Timothy Richard) comp., *Shishi xinlun* 時事新論, Shanghai:Guangxue hui ,1894. See also *Shishi xinlun* *tushuo* in the same year.
 
-Availability: Scan HD database.
+Availability: Open Access at [Kansai University Open Research Centre of Asiam Studies](https://www.ku-orcas.kansai-u.ac.jp); Scan HD database.
 
-Li Timotai 李提摩太 (Timothy Richard) comp., *Shishi xinlun* *tushuo* 時事新論圖説, Shanghai: Guangxue hui, 1894. 45 Maps and charts with short explanations, a companion volume to the *Shishi xinlun*.
+Li Timotai 李提摩太 (Timothy Richard) comp., *Shishi xinlun tushuo* 時事新論圖説, Shanghai: Guangxue hui, 1894. 45 Maps and charts with short explanations, a companion volume to the *Shishi xinlun*.
 
 Availability: Incomplete scan (or scan of incomplete copy) in HD database. Original at Cornell Library. Table of contents is missing the page with maps 32-45, scan of text is missing charts and explanations 1-16.
 
-Li Timotai 李提摩太 (Richard, Timothy, 1845-1919), *Lieguo biantong xingsheng ji* 列國變通 興盛記
+Li Timotai 李提摩太 (Richard, Timothy, 1845-1919), *Lieguo biantong xingsheng ji* 列國變通興盛記
 
 Shanghai: Guangxuehui, Guangxu 20 \[1894\]
 
-Availability：Scan in HD database.
+Availability: Open Access at [*Zhongguo zhexueshu dianzihua jihua*](https://ctext.org/library.pl?if=gb&file=95212&page=1). Scan in HD database.
 
 ---
 
-*Xinzeng guang guang cefu zongtong* 新增廣廣策府總統, Songfenshi zhuren ed. 頌芬室主人 ,79 juan in 25 vols. Shanghai: Hongwen shuju, 1894. Enlarged edition of the *Cefu zongtong*, shortening the classics section, enlarging the master/history etc. section, adding summaries of Yangwu and Western scholarship books as well as extracts from newspapers. Information based on Sun Qing 孫青, Yindu xinzhi de teshu jinliang -- Qing mo shece xinxue xuanben chutan" 引渡 "新知" 的特殊津梁 -- 清末射策新學選本初探,《近代史研究》（2013年第5）:89.
+*Xinzeng guang guang cefu zongtong* 新增廣廣策府總統, Songfenshi zhuren ed. 頌芬室主人 ,79 juan in 25 vols. Shanghai: Hongwen shuju, 1894. Enlarged edition of the *Cefu zongtong*, shortening the classics section, enlarging the master/history etc. section, adding summaries of Yangwu and Western scholarship books as well as extracts from newspapers. Information based on Sun Qing 孫青, Yindu xinzhi de teshu jinliang -- Qing mo shece xinxue xuanben chutan" 引渡 "新知" 的特殊津梁 -- 清末射策新學選本初探,《近代史研究》（2013年第5）: 89.
 
 Availability: No copy located, not in HD database.
 
 ---
 
-*Yangwu xinlun* 洋務新論,Zhangbai Zhong Ying 長白仲英 comp., lithograph, 6 卷,12 sections.n.p.: Zhangbaili yinxianguan 長白吏隱僊館,1894. Preface by Li Changfu 李長福。Includes Yangwu memorials, writings on Western learning with a focus on state matters. From the later editions it is clear that this is a compilation done by Timothy Richard.
+*Yangwu xinlun* 洋務新論, Changbai Zhong Ying 長白仲英 comp., lithograph, 6 卷,12 sections.n.p.: Zhangbaili yinxianguan 長白吏隱僊館,1894. Preface by Li Changfu 李長福。Includes Yangwu memorials, writings on Western learning with a focus on state matters. From the later editions it is clear that this is a compilation done by Timothy Richard.
 
 later titles: *Fenlei yangwu jingji shishi lun* 分類洋務經濟時事論 （1895, 96）,and *Yangwu jingji xinxue lun* 洋務經濟新學論 （1901）
 
@@ -1162,7 +1162,7 @@ Availability: Scan on [http://kindai.ndl.go.jp/]( http://kindai.ndl.go.jp/)
 
 ### 1895
 
-*Fenlei yangwu jingji shishi lun* 分類洋務經濟時事論 （1895）,reprint of the 1894 *Yangwu xinlun* 洋務新論,Zhangbai Zhong Ying 長白仲英
+*Fenlei yangwu jingji shishi lun* 分類洋務經濟時事論（1895）,reprint of the 1894 *Yangwu xinlun* 洋務新論,Zhangbai Zhong Ying 長白仲英
 
 Availability: Not in Heidelberg database.
 
@@ -1277,7 +1277,7 @@ Availability: U of Maryland, Chinese University of Hong Kong. No copy of this in
 *Geguo tongshang shimo ji* 各國通商始末記, 20j., 6 vols., 王之春 Wang Zhichun, b. 1842 Published : \[China\] : Bao shan shu ju, Guangxu 21 \[1895\] \[China\] : 寶善書局, 光緖21 \[1895\]
 Reprint with different title of *Guochao rouyuan ji* 1881.
 
-Availability:. Copy in Heidelberg, no scan.
+Availability:. Open accesse at [Harvard-Yenching Library](http://id.lib.harvard.edu/alma/990050721010203941/catalog); Copy in Heidelberg, no scan.
 
 ---
 
