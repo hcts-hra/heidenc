@@ -48,6 +48,7 @@ Availability: Open access at [National Archives of Japan Digital Archive](https:
 *Zengding daban Wanbao quanshu* 增訂大板萬寶全書 (存卷 9), no date. Only ch. 9 preserved and accessible.
 
 Availability: Open access [State Library Berlin](http://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN3303598568)
+
 ---
 
 ### 1728
