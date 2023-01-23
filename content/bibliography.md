@@ -104,7 +104,9 @@ Availability: A reprint edition of the vol.1 can be accessed via [Google Books](
 
 ---
 
-### 1837 following:
+### 1837 
+
+following:
 
 William and Robert Chambers, *Chamber's Educational Course*. Edinburgh, 1837 following. A set of about 100 small volumes each introducing one field of knowledge, this was another attempt by the Chambers group to popularize new knowledge beyond their encyclopedia. At least one of the volumes was translated into Chinese, namely Fryer's 1885 translation of the 1852 volume *Political economy, for use in schools, and for private instruction* by "Economy" (in fact it was written by John Hill Burton), in this series as *Zuozhi chuyan* 佐治芻言. See *Xixue fuqiang congshu* 1896 in this bibliography. For the translation of this volume, see the Trescott article in the bibliography at the end.
 
@@ -1289,7 +1291,7 @@ Availability: Open Access via [Google Books](https://books.google.de/books/about
 
 ### 1896
 
-*Wanguo jin zheng kaolüe*《萬國近政攷略》： 16卷。 1895 , 光緒22年（1896）and other eds. Zou Tao ed., 鄒韜 (1850-1931), Printed by San Lu jie lu三魯借盧藏版。 According to 1898 edition, "book has been written before 1887, thus there might be some difference with the present-day situation." Book newly written, does not consist of excerpts.Fanli also gives details about compilation process over some 20 years. On Zou Tao see Li Hsiao-t'i, Jianli xin shiye, 28-40. Alternative title: **泰西各國新政考** Taixi ge guo xinzheng kao. Supplement at the end a historical chronology of: Lieguo biannian jiyao 列國編年紀要
+*Wanguo jin zheng kaolüe*《萬國近政攷略》：16卷。 1895 , 光緒22年（1896）and other eds. Zou Tao ed., 鄒韜 (1850-1931), Printed by San Lu jie lu三魯借盧藏版。 According to 1898 edition, "book has been written before 1887, thus there might be some difference with the present-day situation." Book newly written, does not consist of excerpts.Fanli also gives details about compilation process over some 20 years. On Zou Tao see Li Hsiao-t'i, Jianli xin shiye, 28-40. Alternative title: **泰西各國新政考** Taixi ge guo xinzheng kao. Supplement at the end a historical chronology of: Lieguo biannian jiyao 列國編年紀要
 
 Chapter headings: 天文,地輿,沿革,風俗,軍政,教派,雜
 
@@ -1303,10 +1305,7 @@ Later editions: 1897, 1898, 1901, 1902
 
 *Xinyi haidao tushuo* 《新譯海道圖說》：16 卷8冊。光緒丙申年（1896 ）。上海書局石印。
 
-State Library Munich ?
-
-Shangtu: no.
-Availability: no copy available
+Availability: The delivery of copy can be requested at [Bayerische Staatsbibliothek](https://opacplus.bsb-muenchen.de/search?id=645369350&db=100&View=default). 
 
 ---
 
@@ -1328,27 +1327,27 @@ Availability: Scan in HD database.
 
 ---
 
-*Xixue fuqiang congshu* 西學富強叢書 Zhang Yinhuan 張蔭桓 (1837-1900) comp., 48 vols. Title calligraphy in first vol. written by Yu Yue 俞樾,but already from cover of vol. 2 on writing on outside cover by Quyuan 曲園. Preface by Li Hongzhang, Shanghai: Hongwen shuju 鴻文書局(set 1), 1896。Printed by Xiaochuang shanfang 小創山房(set 2, 3, 4, 5, 6,7, 8, 9, 10,) . Also names of entries in later volumes changed (esp. sec. 9). Illustrated, many very fine technical drawings, some technical glossaries (for example bilingual English-Chinese glossary of mineralogical terms). All sections have named foreign authors with the foreign oral translators and the Chinese translators in writing named. Other editions: 1899, 1902.
+*Xixue fuqiang congshu* 西學富強叢書 Zhang Yinhuan 張蔭桓 (1837-1900) comp., 48 vols. Title calligraphy in first vol. written by Yu Yue 俞樾, but already from cover of vol. 2 on writing on outside cover by Quyuan 曲園. Preface by Li Hongzhang, Shanghai: Hongwen shuju 鴻文書局(set 1), 1896。Printed by Xiaochuang shanfang 小創山房 (set 2, 3, 4, 5, 6,7, 8, 9, 10,). Also names of entries in later volumes changed (esp. sec. 9). Illustrated, many very fine technical drawings, some technical glossaries (for example bilingual English-Chinese glossary of mineralogical terms). All sections have named foreign authors with the foreign oral translators and the Chinese translators in writing named. Other editions: 1899, 1902.
 
-1.  Suanxue (Mathematics), 12 titles
+1.  *Suanxue* 算學 (Mathematics), 12 titles
 
-2.  Dianxue (Electricity), 12 titles
+2.  *Dianxue* 電學 (Electricity), 12 titles
 
-3.  Huaxue (Chemistry), 2 titles 1. Mineralogy, by Daina代那 (USA), oral trasl McGowan 瑪高溫, written trsl.Hua Hengfang 華蘅芳
+3.  *Huaxue* 化學 (Chemistry), 2 titles 1. Mineralogy, by Daina 代那 (USA), oral trasl McGowan 瑪高溫, written trsl.Hua Hengfang 華蘅芳
 
-4.  Tianxue (Astronomy), 2 titles (In section itself called Tianwen xue)
+4.  *Tianxue* 天學 (Astronomy), 2 titles (In section itself called Tianwen xue 天文學)
 
-5.  Dixue : 1 title (In section itself called Dili xue)
+5.  *Dixue* 地學 1 title (In section itself called Dili xue 地理學)
 
-6.  Shixue (History): 4 titles: 萬國總說,列國歲計政要,俄史輯譯,西紀年
+6.  *Shixue* 史學 (History): 4 titles: 萬國總說, 列國歲計政要, 俄史輯譯, 西紀年
 
 > Shixue (History): 4 titles: 萬國總說 Wanguo zongshuo; 列國歲計政要 Lieguo suiji zhengyao (see details below); 俄史輯譯 Eshi jiyi (Translation of Walter K. Kelly, *History of Russia from the Earliest Period to the Present Time*, 2 vols. (London: Henry G. Bohn, 1855); 西紀年 Xi jinian.
 >
 > Walter F. Kelly English original in HD database under Xixue fuqiang congshu.
 
-7.  Faxue (Law): 5 titles (In section called Gongfa xue)
+7.  *Faxue* 法學 (Law): 5 titles (In section called Gongfa xue 公法學)
 
-Contains in vol. 20: *Gongfa zonglun* 公法總論, a translation of the article „International Law" by Robertson, Edmund, Baron Loches of Cowrie, Luobocun 羅伯村 in the *Encyclopedia Britannica* 9th edition. Edinburgh: Adam and Charles Black, 1881, pp. 190-197 Translation by John Fryer and Wang Zhensheng 汪振聲. This item is also contained in the Xizheng congshu 西政叢書, v. 7.
+Contains in vol. 20: *Gongfa zonglun* 公法總論, a translation of the article "International Law" by Robertson, Edmund, Baron Loches of Cowrie, Luobocun 羅伯村 in the *Encyclopedia Britannica* 9th edition. Edinburgh: Adam and Charles Black, 1881, pp. 190-197 Translation by John Fryer and Wang Zhensheng 汪振聲. This item is also contained in the Xizheng congshu 西政叢書, v. 7.
 
 Availability of Robertson original: Scan in Heidelberg database.
 
@@ -1362,29 +1361,33 @@ Availability of Chinese text: vol. 20-24 of the *Xixue fuqiang congshu* in HD da
 
 Contains in vol. 25: *Zuozhi chuyan* 佐治芻言, a translation of Anonymous (Robert Hill Burns) *Political Economy, for Use in Schools, and for Private Instruction,* a part of Chambers's Educational Course,  Edinburgh: William Chambers and Robert Chambers, 1852**.** This work has been wrongly identified as being the translation of „Homely words to aid governance" from Chamber's Educational Course, but no work of this name is on record. The correct identification has been made by Liang Taigen 梁台根 in his dissertation Liang Qichao daode sixiang yanjiu, 梁启超道德主義思想研究, 国立中山大学中國文學係,2005 p. 84, [online](http://books.google.com/books?id=RmoJHQAACAAJ&dq=intitle:Political+intitle:economy+intitle:for+intitle:use+intitle:in+intitle:schools+intitle:and+intitle:for+intitle:private+intitle:instruction&lr=&as_brr=0&ei=SOJHSMaBPYrSjgH_2IDXDQ) . A Japanese translation by Fukuzawa Yukichi 福澤諭結 (1895-1901) of the *Political Economy, for Use in Schools*... as *Seiyō jijō gaihen* 西洋事情外邊 was done in 1868 and circulated widely.
 
-Availability of English-language work. Scan in Heidelberg database.
+Availability of English-language work: Scan in Heidelberg database.
 
-8.  Kuangxue (Mining): 5 titles
+8.  *Kuangxue* 礦學 (Mining): 5 titles
 
-9.  Gongxue (Engineering): 18 titles (In section renamed: Qiji xue 汽機學)
+9.  *Gongxue* 工學 (Engineering): 18 titles (In section renamed: Qiji xue 汽機學)
 
-10. Bingxue (Military affairs): 18 titles (In section itself called Bingzheng xue)
+10. *Bingxue* 兵學 (Military affairs): 18 titles (In section itself called Bingzheng xue 兵政學)
 
 List of set 10:
 
-Chuanwu lunlue, Faguo shuishi kao, Haijun diaodu yaoyan, Huitehuode gangpao, Kelubo pao biao, Kelubo pao caofa, Kelubo pai zhunxin fa, Lieguo lujun zhi, Linzhen guanzhen , Lunchuan bo zhen, Meiguo shuishi kao, Binchuan pao fa, Nanbei hua qi zhanji, Qian di xu zhi, Yingcheng jieyao, Yingguo shuishi kao, Zhi huoyao fa.
-
-Full catalogue entries in Harvard Hollis catalogue
+Chuanwu lunlue, Faguo shuishi kao, Haijun diaodu yaoyan, Huitehuode gangpao, Kelubo pao biao, Kelubo pao caofa, Kelubo pai zhunxin fa, Lieguo lujun zhi, Linzhen guanzhen , Lunchuan bo zhen, Meiguo shuishi kao, Binchuan pao fa, Nanbei hua qi zhanji, Qian di xu zhi, Yingcheng jieyao, Yingguo shuishi kao, Zhi huoyao fa. Full catalogue entries in Harvard Hollis catalogue
 
 Availability: copy and SCAN in Heidelberg database
 
+11. Qiangxue 槍學 
+
+
+Availibilty of all volumns mentioned above in 西學富強叢書: Vol.1-6 [from *Suanxue* to *dianxue*](https://dl.ndl.go.jp/pid/2581545), vol.7-35 [from *Huaxue* to *Kuangxue*](https://dl.ndl.go.jp/pid/2610007), vol.36-47 [from *Qijixue* to *Gongyixue*](https://dl.ndl.go.jp/pid/2609215), and vol.48-60 [from *Bingzhengxue* to *Qiangxue*](https://dl.ndl.go.jp/pid/2610057) of 西學富強叢書 can be accessed at NDL Digital Collections for free after becoming a official registered user, which is possible for anyone. 
+
+
 ---
 
-*Lieguo suiji zhengyao* 列國歲計政要, translation of Frederick Martin 麥丁富得力,*Statesman's Year-Book. Statistical and Historical Annual of the States of the Civilised World. Handbook for politicians and Merchants for the Year 1874* (London: Macmillan and Co, 1874), Lin Lezhi (Young Allen) orally translated, Zheng Changyan 鄭昌棪written down, Zhang Yinhuan張蔭桓(1827-1900) edited. Preface by Zheng Changyan, in 光緒紀元 (1875). The original Chinese text was published by the Jiangnan zhizaoju in Shanghai in 1875. Copies of this edition are in Columbia, Chicago, and Stanford. 1896 Reprint in *Xixue fuqiang congshu*. 西學富强叢書, section 史學,vol. 16 end. Based on a record of data and events annually compiled by foreign embassies around the world? The volume on which this is based is the eleventh annual publication. It is an annual compilation by Martin that started in 1864. Liang Qichao claims in his 1896 preface to the *Xuyi lieguo suiji zhengyao* 續譯列國歲計政要, *Yinbingshi he ji, wenji*, 2, p. 59, that this (translation ?) series started in 癸酉1873.
+*Lieguo suiji zhengyao* 列國歲計政要, translation of Frederick Martin 麥丁富得力, *Statesman's Year-Book. Statistical and Historical Annual of the States of the Civilised World. Handbook for politicians and Merchants for the Year 1874* (London: Macmillan and Co, 1874), Lin Lezhi (Young Allen) orally translated, Zheng Changyan 鄭昌棪 written down, Zhang Yinhuan 張蔭桓(1827-1900) edited. Preface by Zheng Changyan, in 光緒紀元 (1875). The original Chinese text was published by the Jiangnan zhizaoju in Shanghai in 1875. Copies of this edition are in Columbia, Chicago, and Stanford. 1896 Reprint in *Xixue fuqiang congshu*. 西學富强叢書, section 史學,vol. 16 end. Based on a record of data and events annually compiled by foreign embassies around the world? The volume on which this is based is the eleventh annual publication. It is an annual compilation by Martin that started in 1864. Liang Qichao claims in his 1896 preface to the *Xuyi lieguo suiji zhengyao* 續譯列國歲計政要, *Yinbingshi he ji, wenji*, 2, p. 59, that this (translation ?) series started in 癸酉1873.
 
 Reprint in: Congshu jicheng xubian 51, 217-464.
 
-Availability: SCAN in Heidelberg database under *Xixue fuqiang congshu*, 16, shixue, end of volume. Scan of the English-language original under Martin_Statesmansyearbook1874 in HD database.
+Availability: SCAN in Heidelberg database under *Xixue fuqiang congshu*, 16, shixue, end of volume. Scan of the English-language original under Martin_Statesmansyearbook1874 in HD database. Or copies can be requested from [Leiden University Library](https://catalogue.leidenuniv.nl/permalink/f/n95gpj/UBL_ALMA21226208450002711)
 
 ---
 
@@ -1396,25 +1399,25 @@ Availability: No copy in HD database.xxxxxxxx
 
 ---
 
-*Nihon daijiten*日本大辞典, Ôwage Tateki大和田,建樹（１８５７－１９１１）comp. Tokyo: Hakubun, 1896.
+*Nihon daijiten* 日本大辞典, Ôwage Tateki大和田,建樹（１８５７－１９１１）comp. Tokyo: Hakubun, 1896.
 
 Availability: Scan on [http://kindai.ndl.go.jp/]( http://kindai.ndl.go.jp/)
 
 Reprint of *Xixue qimeng shiliu zhong* 《西學啓蒙十六種》(1885) second edition. At 光緒22年（1896）再版,上海著易書局活版印刷。
 
-Availability: Stanford, Hong Kong University
+Availability: Oepn access at [Chinese Rare Boooks of Harvard Library](https://id.lib.harvard.edu/curiosity/chinese-rare-books/49-990081664360203941). Also at Stanford and Hong Kong University.
 
 ---
 
 Ge Shijun 葛士濬. *Huangchao jingshiwen xubian* 皇朝經世文續編,120 juan. \[Shanghai:\] Baoshan shuju 寶善書局,1896.
 
-Availability: Scan in HD database.
+Availability: Open access at [*Zhongguo zhexueshu dianzihua jihua*](https://ctext.org/library.pl?if=gb&res=90314&remap=gb). Scan in HD database.
 
 ---
 
-Reprint: *Yangwu xinlun* 洋務新論,Internal title *Fenlei yangwu jingji shishi lun, bingfu Zhong Xi guanxi jiyao; houfu Taixi zhizao wuyan huoyao mifa* 分類洋務經濟時事論, 並附中西關係輯要；後附泰西製造無煙火藥祕法。Zhangbai Zhong Ying 長白仲英 comp., lithograph, 6 卷, Zhangbai: Liyinxianguan 長白吏隱僊館,1896. Preface by Li Changfu 李長福。Date of publication inferred from title, the calligraphy of which is dated spring 1896. Includes Yangwu memorials, writings on Western learning with a focus on state matters. From the later editions it is clear that this is a compilation done by Timothy Richard.
+Reprint: *Yangwu xinlun* 洋務新論, Internal title *Fenlei yangwu jingji shishi lun, bingfu Zhong Xi guanxi jiyao; houfu Taixi zhizao wuyan huoyao mifa* 分類洋務經濟時事論, 並附中西關係輯要；後附泰西製造無煙火藥祕法。Zhangbai Zhong Ying 長白仲英 comp., lithograph, 6 卷, Zhangbai: Liyinxianguan 長白吏隱僊館,1896. Preface by Li Changfu 李長福。Date of publication inferred from title, the calligraphy of which is dated spring 1896. Includes Yangwu memorials, writings on Western learning with a focus on state matters. From the later editions it is clear that this is a compilation done by Timothy Richard.
 
-Later edition:*Yangwu jingji xinxue lun* 洋務經濟新學論 （1901）
+Later edition: *Yangwu jingji xinxue lun* 洋務經濟新學論 （1901）
 
 Availability：Scan in HD database.
 
