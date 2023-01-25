@@ -1433,17 +1433,17 @@ Availability: No copy or scan in HD database.xxx
 
 ---
 
-*Shiwu jingshi wenbian chuji* 時務經世文編初集,and supplement Erke 二刻,Qiushizhai zhuren 求是齋主人 ed., Lithograph, 20 plus 12 juan. Hong Kong: Yijin shi 宜今室。Statecraft essays with sources given, questions and answers in juan 31. Modelled on *Huangchao jingshi wenbian*, but with different sets of categories, starting with Self-strengthening. Othe title: Shiwu jingshu fenlei wenbian時務經世分類文編
+*Shiwu jingshi wenbian chuji* 時務經世文編初集, and supplement Erke 二刻,Qiushizhai zhuren 求是齋主人 ed., Lithograph, 20 plus 12 juan. Hong Kong: Yijin shi 宜今室。Statecraft essays with sources given, questions and answers in juan 31. Modelled on *Huangchao jingshi wenbian*, but with different sets of categories, starting with Self-strengthening. Othe title: Shiwu jingshu fenlei wenbian 時務經世分類文編
 
-Information based on孫青, "Yindu "xinzhi" de teshu jinliang -- Qing mo shece xinxue xuanben chutan 引渡 "新知" 的特殊津梁 -- 清末射策新學選本初探,《近代史研究》（双月刊）,2013年第5. 90.
+Information based on 孫青, "Yindu "xinzhi" de teshu jinliang -- Qing mo shece xinxue xuanben chutan 引渡 "新知" 的特殊津梁 -- 清末射策新學選本初探,《近代史研究》（双月刊）,2013年第5. 90.
 
 Availability: Cornell has copy, not in Heidelberg database.xxx
 
 ---
 
-*Shiwu tongkao*《時務通考》31卷24册 , Qi Lu zhuren杞盧主人, Shanghai: Dianshizhai 上海：點石齋出版, 光緒2 3 年 (1897). Preface by editor, Guangxu 23, 4^th^ month. Focused on new knowledge, including geography, international law, diplomatic relations, mining and telegraphs, and various fields of science. Newly written entries without individual author, not excerpted from quoted sources. While the imprint is from 1897, the book carries a copyright protection from the Susong Daotai's office dated fourth month Guangxu 24 (1898) and another one from the Shanghai xian with the sixth month of the same year. This might mean that the available copy is already a reprint.
+*Shiwu tongkao*《時務通考》31卷24册 , Qi Lu zhuren 杞盧主人, Shanghai: Dianshizhai 上海：點石齋出版, 光緒2 3 年 (1897). Preface by editor, Guangxu 23, 4^th^ month. Focused on new knowledge, including geography, international law, diplomatic relations, mining and telegraphs, and various fields of science. Newly written entries without individual author, not excerpted from quoted sources. While the imprint is from 1897, the book carries a copyright protection from the Susong Daotai's office dated fourth month Guangxu 24 (1898) and another one from the Shanghai xian with the sixth month of the same year. This might mean that the available copy is already a reprint.
 
-Availability: copy from Shanghai in Heidelberg. SCAN in database.
+Availability: Open access at [*Zhongguo zhexueshu dianzihua jihua*](https://ctext.org/library.pl?if=gb&res=89406); copy from Shanghai in Heidelberg. SCAN in database.
 
 Copy of this edition in *Xuxiu siku quanshu* 1254,p. 227-1259.
 Availability: HEIDELBERG, print version.
@@ -1468,21 +1468,21 @@ Availability: Not located xxxxxxx.
 
 ---
 
-*Shiwu tong lun*, 時務通論, He Shuling, 河樹齡, \[n.p.\], \[1897?\], 29 j. double \| 21 cm. Preface Guangxu 23 (1897), by Chen Ronggun 陳榮袞, Preface Guangxu 22 (1896) by He Shuling. Entire set interpunctuated. Series of short essays on a wide range of actual matters from numbers to trade to Korea.
+*Shiwu tong lun*, 時務通論, He Shuling, 何樹齡, \[n.p.\], \[1897?\], 29 j. double \| 21 cm. Preface Guangxu 23 (1897), by Chen Ronggun 陳榮袞, Preface Guangxu 22 (1896) by He Shuling. Entire set interpunctuated. Series of short essays on a wide range of actual matters from numbers to trade to Korea.
 
-Availability: SCAN in Heidelberg database.
+Availability: Open access via [Hathi Trust Digital Library](https://hdl.handle.net/2027/hvd.32044067910331). SCAN in Heidelberg database.
 
 *Xixue shiwu zongzuan dacheng* 西學時務總纂大成, Qiuzhizhai zhuren 求志斋主人 comp., Shanghai: Hungwen 鴻文書局, 1897, 24 ce.
 
-Availability: scan in Heidelberg database
+Availability: All 91 volumns can be access at [Hathi Trust Digital Library](https://catalog.hathitrust.org/api/volumes/oclc/502900990.html). Scan in Heidelberg database
 
 ­­­­­­­­­­­­­­­­­­­­­­­­­­­­---
 
-*Wanguo fengsu kaolüe* 萬國風俗考略, Zou Tao 鄒韜ed.,
+*Wanguo fengsu kaolüe* 萬國風俗考略, Zou Tao 鄒韜 ed.,
 
 in Wang Xiqi 王錫祺 ed. *Xiaofang huzhai yudi congchao zaibu bian* 10 小方壺齋輿地叢鈔再補編. Shanghai 1900. Preface dated 1897. Publication date based on first advertisement in *Shenbao* newspaper, March 10, 1900.
 
-Availability: . Copy in Heidelberg.
+Availability: Copy in Heidelberg.
 
 Reprint: Taibei 1964.
 
@@ -1490,7 +1490,7 @@ Reprint: Taibei 1964.
 
 *Wanguo fenlei shiwu dacheng*《萬國分類時務大成》：40 卷28 冊。Qian Feng 錢豊(頤仙)選輯。光緒23 年 (1897)。上海：袖海山房 石印。Unsourced newly written entries by editor. Focus on state matters with small section on practical science matters. Has an official printing permit from Jiangnan, Guangxu 24. preface by 張韞玉 Zhang Yunyu.
 
-Availability: Heidelberg SCAN in database
+Availability: Heidelberg SCAN in database. Harvard-Yenching Library has a copy. 
 
 ---
 
@@ -1512,7 +1512,7 @@ Availability: Title not located outside Zhong Shaohua library. No copy or scan a
 
 A 1898 reprint is in Copenhagen University Library
 
-Availability: Stanford University。 Bayerische Statsbibliothek xxxxxxx.
+Availability: Stanford University; Copies can be requested from [Bayerische Statsbibliothek](https://opacplus.bsb-muenchen.de/search?id=646075605&db=100&View=default).
 
 ---
 
@@ -1523,7 +1523,7 @@ Institute for the History of the Natural Sciences, Peking
 
 Shangtu: no.
 
-Availability: No copy in Heidelberg.
+Availability: Open access at [Kyushu University Library](https://hdl.handle.net/2324/4793679). No copy in Heidelberg.
 
 ---
 
@@ -1600,7 +1600,7 @@ Qian Xuejia 錢學嘉, *Guangxu tongshang zonghe biao* 光緒通商綜覈表, 1 
 
 Fully digitized in Jin Guantao Liu Qingfeng archive
 
-Availability: Scan in Heidelberg database.
+Availability: The pdf version of all above volumns can be downloaded for free at [Wikicommon](https://commons.wikimedia.org/w/index.php?title=Category:西政叢書&oldid=667021660). Scan in Heidelberg database.
 
 ---
 
@@ -1666,7 +1666,7 @@ Ye, Han. Dixue gelue, 1j.,
 
 Ye, Lan. Tianwen gelüe, 1j.
 
-Availability: SCAN in Heidelberg database.
+Availability: All above volumns can be accessed at [Hathi Trust Digital Library](https://catalog.hathitrust.org/api/volumes/oclc/502898756.html). SCAN in Heidelberg database.
 
 ---
 
@@ -1684,7 +1684,7 @@ Availability: Scan in HD database.
 
 ---
 
-*Diyu zongshuo* 地域總說, Zou Tao 鄒韜, in Wang Xiqi王錫祺ed., *Xiaofanghu zhang yudi congchao zaibu bian*, Shanghai: Zhuyi tang 著易堂1900.
+*Diyu zongshuo* 地域總說, Zou Tao 鄒韜, in Wang Xiqi 王錫祺ed., *Xiaofanghu zhang yudi congchao zaibu bian*, Shanghai: Zhuyi tang 著易堂1900.
 
 Availability: Copy in Heidelberg.
 
