@@ -1779,7 +1779,7 @@ Vol. 10
 - *Shuixue* 水學, 1 juan
 - *Lixue* 力學, 1 juan
 
-Availability: Scan in HD database.
+Availability: Open access at [Hathi Trust Digital Library](https://hdl.handle.net/2027/mdp.39015062301315); Scan in HD database.
 
 ---
 
@@ -1791,21 +1791,21 @@ Availability: Could be ordered via guji. No copy in Heidelberg.
 
 Shen Tongsheng 沈桐生, Guiji Shen shi Dong Xi xueshu tiyao zongxu 會稽沈氏東西學書提要總敘,2 juan.Shanghai: Duyouyongshuzhai, 1897. Preface by the author written in Shanghai.
 
-Availability: Scan in HD database.
+Availability: Open access at [Hathi Trust Digital Library](https://hdl.handle.net/2027/uc1.b3918054); Scan in HD database.
 
 ---
 
 *Xishi lice* 西事蠡測, Shen Chun 沈純, Short selection of random pieces that have to do with West. No order visible. No sources given. Some explanatory matter in small print added. Contains info up to 1882, probably published 1883.
 
-Printed in Wang Xiqi王錫祺(1855-1913) comp., Xiaofanghu zhai yudi congchao 小方壺齋輿地叢鈔 vol. 15,18 pp. Shanghai Shuyi tang \[1879\] , reprint Hangzhou 1985.
+Printed in Wang Xiqi 王錫祺(1855-1913) comp., Xiaofanghu zhai yudi congchao 小方壺齋輿地叢鈔 vol.15, 18 pp. Shanghai Shuyi tang \[1879\] , reprint Hangzhou 1985.
 
-Availability: SCAN in Heidelberg database.
+Availability: 小方壺齋輿地叢鈔 can be accessed at [[Hathi Trust Digital Library]](https://catalog.hathitrust.org/api/volumes/oclc/502895999.html), in which 西事蠡測 can be found in vol.62; SCAN in Heidelberg database.
 
 ---
 
 *Wuzhou fangyu kao* 五洲方域考, Gong Chai 龔柴, ed., in Wang Xiji 王錫輯 (1855-1913) comp., *Xiaofanghuzhai yudi congchao* (1879). Date of original not clear
 
-Availability: Print copy Heidelberg
+Availability: 小方壺齋輿地叢鈔 can be accessed at [[Hathi Trust Digital Library]](https://catalog.hathitrust.org/api/volumes/oclc/502895999.html), in which 五洲方域考 in vol.1; Print copy Heidelberg
 
 ### 1898
 
@@ -1819,15 +1819,15 @@ Availability: Scan of full table of contents and chapter 1 huaxue 化學 in HD d
 
 Reprint of the 1897 edition from a different publisher.
 
-Availability: Copenhagen University Library. No copy or scan in Heidelberg
+Availability: No copy or scan in Heidelberg
 
 ---
 
-*Xixue tongkao*《西學通攷》： 36 卷12冊。光緒丁酉（1898）。光緒戊戌 年（1898）。 First preface by 江標 Jiang Biao Guangxu 23, 1897, second preface by Hu Zhaoluan胡兆鸞, Guangxu 23, 1897, lithograph.
+*Xixue tongkao* 西學通攷： 36 卷12冊。光緒丁酉（1898）。光緒戊戌 年（1898）。 First preface by 江標 Jiang Biao Guangxu 23, 1897, second preface by Hu Zhaoluan胡兆鸞, Guangxu 23, 1897, lithograph.
 
 Divided into two big sections, xuelei 學類and zhenglei 政類 . A third section, jiaolei 教類 was to follow later. It is announced in the table of contents. Excerpts of available texts, sources given.
 
-Availability: Univ. of Hong Kong library. No copy in HD database. See 1901 reprint.
+Availability: The delivery of a copy can be requested from [Bayerische Staatsbibliothek](https://opacplus.bsb-muenchen.de/search?id=608380461&db=100&View=default); University of Hong Kong library. No copy in HD database. See 1901 reprint.
 
 ---
 
@@ -1841,7 +1841,7 @@ Availability: Complete 1901 edition Heidelberg SCAN in database. ch. 1-2 have be
 
 *Wuzhou tukao* 五洲圖考, Gong Chai 龔柴, Xu Bin 許彬 trsl.,譯, metal fonts. Shanghai : Xujiahui yinshu guan, Guangxu 24 \[1898\] 上海 : 徐家滙印書館, 光緖24 \[1898\], 4 vols. Preface 1 by Wang Kangnian 汪康年, preface 2 by Li Duo 李杕, writing in the Huibaoguan 匯報館 in Shanghai, preface 3 by Gong Chai 龔柴, preface 4 by Xu Bin 許彬. All of them seemingly involved with the Catholic newspaper *Yiwen lu* 益聞錄. No further editions listed. Articles by named authors. World geography and, for most of the volume, geography of the Chinese provinces.
 
-Availability: SCAN in Heidelberg Database
+Availability: Open access at [*Zhongguo zhexueshu dianzihua jihua*](https://ctext.org/library.pl?if=gb&file=102085&page=1); SCAN in Heidelberg Database.
 
 ---
 
