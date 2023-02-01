@@ -786,7 +786,7 @@ Tang Zhen 湯震, *Weiyan* 危言, N.P.: Wentingge tushu gongsi 文听閣圖書�
 
 Reprinted in 1898 under the title *Zhongxi shiwu weiyan* 中西時務危言
 
-Availability : Stanford University. Scan in HD database only of later print.
+Availability : The delivery of a copy can be requested from [Bayerische Staatsbibliothek](https://opacplus.bsb-muenchen.de/search?id=665178940&db=100&View=default); Stanford University. Scan in HD database only of later print.
 
 ---
 
@@ -1851,7 +1851,7 @@ Availability: Meiji daigaku library, not in HD database.
 
 ---
 
-*Yangwu shishi huibian* 洋務時事彙編. Editor: Ge Yuanyou (Michigan entry), Ge Ziyuan葛自源,, Toyo bunko entry: Comp. by Baopuzi from Lingyin 淸 靈隱抱樸子上海書局 石印本 ed. Shanghai: Shanghai shuju 1898. 6 juan. 丁韙良 Ding Weiliang W.A.P. Martin) \[1827-1916\] et al. tr. Lithography. Compilation of signed articles.
+*Yangwu shishi huibian* 洋務時事彙編. Editor: Ge Yuanyou (Michigan entry), Ge Ziyuan 葛自源,, Toyo bunko entry: Comp. by Baopuzi from Lingyin 淸 靈隱抱樸子上海書局 石印本 ed. Shanghai: Shanghai shuju 1898. 6 juan. 丁韙良 Ding Weiliang W.A.P. Martin) \[1827-1916\] et al. tr. Lithography. Compilation of signed articles.
 
 Availability: Scan in HD database. 
 
@@ -1863,14 +1863,13 @@ Denglicha (probably British) 鄧理槎. *Ying xing ji* 英興記 , Lin Lezhi, Re
 
 ---
 
-Chen Xiutang 陳修堂, *Bowu xinbian tushuo* 博 物新編圖說 , Preface by Jiang Biao 江標, Shanghai: Cang jing shi guan藏經史館, 1898. 2 vols, Lithograph print with punctuation. Illustrated edition of the 1855 work by Benjamin Hobson in which he cooperated with Chen Xiutang
+Chen Xiutang 陳修堂, *Bowu xinbian tushuo* 博物新編圖說 , Preface by Jiang Biao 江標, Shanghai: Cang jing shi guan藏經史館, 1898. 2 vols, Lithograph print with punctuation. Illustrated edition of the 1855 work by Benjamin Hobson in which he cooperated with Chen Xiutang
 
-Availability: Scan in Heidelberg database.
+Availability: Open access at [Harvard-Yenching Library](https://id.lib.harvard.edu/alma/990060319630203941/catalog); Scan in Heidelberg database.
 
 ---
 
-Tang Zhen 湯震, Wei yan 危言 = Zhong Xi shiwu Wei yan 中西時務危言 / Tang Zhen 山陰湯震蟄仙. Preface by author dated 1890. 2 threadbound vols., 10.4 x 17.2 cm, in a paper package.
-Shanghai: Shanghai Shuju 上海書局校印, 1898.
+Tang Zhen 湯震, Wei yan 危言 = Zhong Xi shiwu Wei yan 中西時務危言 / Tang Zhen 山陰湯震蟄仙. Preface by author dated 1890. 2 threadbound vols., 10.4 x 17.2 cm, in a paper package. Shanghai: Shanghai Shuju 上海書局校印, 1898.
 
 Additional entries: 2 threadbound vols., 10.4 17.2 cm, in a paper package.
 label on each vol.: 中西時務危言
@@ -1881,7 +1880,7 @@ at end of preface: 大清光緒十有六年六月山陰湯震
 \[date is 1890\]
 at head of text: 山陰湯震蟄仙
 
-Availability: Scan in HD database under Tang Zhen weiyan.
+Availability: The delivery of a copy can be requested from [Bayerische Staatsbibliothek](https://opacplus.bsb-muenchen.de/search?id=665178940&db=100&View=default); Scan in HD database under Tang Zhen weiyan.
 
 ---
 
@@ -1891,17 +1890,17 @@ Availability: Heidelberg SCAN in database.
 
 ---
 
-*Lieguo zhengyao bijiao biao* 列國正要比較表, Kang Youwei 康有爲comp. 1897. Preface by Kang Youwei 1897. unpubl. MS in 故宮博物館, listed in Gugong dianben shuku xiancun mu 故宮殿本書庫現存目(1933). Written for the information of the Guangxu Emperor.
+*Lieguo zhengyao bijiao biao* 列國正要比較表, Kang Youwei 康有爲 comp. 1897. Preface by Kang Youwei 1897. unpubl. MS in 故宮博物館, listed in Gugong dianben shuku xiancun mu 故宮殿本書庫現存目(1933). Written for the information of the Guangxu Emperor.
 
 Contents: 各洲諸國名號表, 各國比較地數表,各國比較民數表,各國比較每英萬里人數表,各國比較學校生徒人數表,各國比較商務表, 各國比較鐵路勻算萬里表, 各國比較電線勻算表, 各國比較出洋輪船來板裝載頓數表, 各國比較郵政進款表, 各國比較國債錢糧並以錢糧抵還國債數表,各國比較教民表,各國比較鐵甲快船表。
 
-Source of information: Ma Honglin 馬洪林, *Kang Youwei dazhuan* 康有爲大傳Shenyang: Liaoning renmin chbsh, 1988, 308-9.
+Source of information: Ma Honglin 馬洪林, *Kang Youwei dazhuan* 康有爲大傳 Shenyang: Liaoning renmin chbsh, 1988, 308-9.
 
 Availability: No scan or copy in Heidelberg.
 
 ---
 
-Huang Qingcheng 黃慶澄 (1863-1904) (Huang Yuchu 黃愚初), *Zhong Xi putong shumu biao* 中西普通書目表 , n.p. 1898, 1 vol. Preface by Sun Yirang孫詒讓, his teacher. For information, on him, see http://blog.sina.com.cn/s/blog_5ff780e10100i8sg.html
+Huang Qingcheng 黃慶澄 (1863-1904) (Huang Yuchu 黃愚初), *Zhong Xi putong shumu biao* 中西普通書目表 , n.p. 1898, 1 vol. Preface by Sun Yirang 孫詒讓, his teacher. For information, on him, see http://blog.sina.com.cn/s/blog_5ff780e10100i8sg.html
 
 Availability: Copy in Berkeley. No scan in HD, xxxx.
 
@@ -1919,7 +1918,7 @@ Availability: Not available in Heidelberg database.
 
 Availability: copy of 1898 edition in Heidelberg, SCAN in database under *Jingji tongkao*.
 
-3rd ed. 1901.Harvard has the same copy, cover title *Jingji tongkao*. Ying Zuxi應祖錫and Han Qingfu 韓卿甫, zuan 纂。
+3rd ed. 1901. Harvard has the same copy, cover title *Jingji tongkao*. Ying Zuxi應祖錫and Han Qingfu 韓卿甫, zuan 纂。
 
 Availability: Heidelberg SCAN in database under *Yangwu jingji tongkao*.
 
@@ -1931,7 +1930,7 @@ Availability: Heidelberg SCAN in database under *Yangwu jingji tongkao*.
 
 Holdings: Original copy in Harvard Yenching.
 
-Availability: Print edition in Heidelberg of Kang's work in the 康有爲全集, vol. 3. No Scan in database.
+Availability: All volumns can be accessed at [NDL Digital Collections](https://dl.ndl.go.jp/pid/2579805/1/1) after registeration; Print edition in Heidelberg of Kang's work in the 康有爲全集, vol. 3. No Scan in database.
 
 Literature: Takeuchi Horiyuki: 竹内弘行,康有為『日本書目志』の一考察A Study on Kang Youwei\'s 康有為 Bibliography of Japanese Books (Ri-ben Shu-mu-zhi 日本書目志), 名古屋大學文學部研究論文集。哲學, The Journal of the Faculty of Literature, Nagoya University. Philosophy. 49 (2003) 77-95.
 
@@ -1955,7 +1954,7 @@ Availability: Scan of chapters 1 and 4 in HD Database.
 
 ---
 
-Gilbert Reid (Li Jiabai 李佳白 （1857-1927, USA） , *Xinxue huibian* 新學彙編,Lin Yuezhi (Young John Allan), tr. Cai Erkang 蔡尔康辑 ed. Preface by Timothy Richard. Shanghai: Guangxue hui, 1898 (戎戌5月), 4 vols. Price: 洋六角五分.
+Gilbert Reid (Li Jiabai 李佳白（1857-1927, USA）, *Xinxue huibian* 新學彙編, Lin Yuezhi (Young John Allan), tr. Cai Erkang 蔡尔康辑 ed. Preface by Timothy Richard. Shanghai: Guangxue hui, 1898 (戎戌5月), 4 vols. Price: 洋六角五分.
 
 Entry in 李学勤,吕文郁 主编.四库大辞典·下.长春：吉林大学出版社.1996.第2342-2343页:
 
@@ -1997,13 +1996,13 @@ Availability: [Copy at Harvard Yenching Library](https://id.lib.harvard.edu/alma
 
 ---
 
-Shanghai Mengxuebao 上海蒙學報 comp., *Geguo zhengzhi yixue ce* 各國政治藝學策; *Geguo yixue ce* 各國藝學策 , Shanghai: Shanghai mengxuebaoguan, Guangxu n.y. (1898). Lithograph. The date is inferred from the *Mengxue bao*, which appeared in 1898. Source: http://www.gujibook.com/gujide_17611/
+Shanghai Mengxuebao 上海蒙學報 comp., *Geguo zhengzhi yixue ce* 各國政治藝學策; *Geguo yixue ce* 各國藝學策, Shanghai: Shanghai mengxuebaoguan, Guangxu n.y. (1898). Lithograph. The date is inferred from the *Mengxue bao*, which appeared in 1898. Source: http://www.gujibook.com/gujide_17611/
 
 Availability: Not in HD database.
 
 ---
 
-*Tongxuezhai congshu* 通學齋叢書. 46 vols. Zou Lingyuan鄒凌元(=Zou Tao 鄒弢?) comp. Shanghai？:Tongxuezhai, 1899.
+*Tongxuezhai congshu* 通學齋叢書. 46 vols. Zou Lingyuan 鄒凌元(=Zou Tao 鄒弢?) comp. Shanghai？:Tongxuezhai, 1899.
 
 Contents:
 
@@ -2059,11 +2058,11 @@ Contents:
 - Zou, Lingyuan \[=Tao\], Zhong wai zhangcheng huibian 中外章程彙編
 - Zou, Tao, 19th cent, Lieguo biannian jiyao 列國編年紀 要
 
-Availability: Scan in Heidelberg database.
+Availability: [Vol. 1-25](https://dl.ndl.go.jp/pid/2581882) and [vol.26-46](https://dl.ndl.go.jp/pid/2598078) can be accessed at NDL digital collections after registration; or scan in Heidelberg database.
 
 ---
 
-Ge Ziyuan 葛自源 (Yuanyou 源有) , *Yangwu shishi huibian* 洋務時事彙編 , Shanghai: Shanghai shuju, 1898. Lithograph.
+Ge Ziyuan 葛自源 (Yuanyou 源有) , *Yangwu shishi huibian* 洋務時事彙編, Shanghai: Shanghai shuju, 1898. Lithograph.
 
 Availability: Scan in Heidelberg database.
 
@@ -2100,11 +2099,11 @@ See also:
 Reprint of *Xinyi Zhongguo jianghai xianyao tuzhi* : Beijing Shi :Xiamen Shi : Jiu zhou chu ban she ; Xiamen da xue chu ban she, 2004. \[Di 1 ban.\]
 北京市 :廈門市 : 九州出版社 ; 廈門大學出版社, 2004.
 
-Availability: Scan of Chinese title in Heidelberg database. Scan of 1886 second English edition in Heidelberg database.
+Availability: Open access at [*Zhongguo zhexueshu dianzihua jihua*](https://ctext.org/library.pl?if=gb&file=104633&page=1); Scan of Chinese title in Heidelberg database. Scan of 1886 second English edition in Heidelberg database.
 
 ---
 
-*Wan guo tong shi, qian bian*. 萬國通史前編 , Rees, John Lambert, 1862-李思倫白約翰comp. and trsl. Cai Erkang, Cao Zenghan蔡爾康, 曹曾涵written down. English title: *History of ancient and moderen nations*. *part 1. Ancient history*. 10 juan / Shanghai : Guang xue hui, 1900. 10 v. : ill., folded maps ; 31 cm.
+*Wan guo tong shi, qian bian*. 萬國通史前編, Rees, John Lambert, 1862-李思倫白約翰 comp. and trsl. Cai Erkang, Cao Zenghan 蔡爾康, 曹曾涵 written down. English title: *History of ancient and moderen nations*. *part 1. Ancient history*. 10 juan / Shanghai : Guang xue hui, 1900. 10 v. : ill., folded maps ; 31 cm.
 
 Availability: Scan in Heidelberg database.
 
@@ -2126,7 +2125,7 @@ Availability: not in HD database.
 
 ---
 
-*Wuzhou geguo zhengzhi kao* 《五洲各国政治攷 》：8卷6冊 。1901年 。 Lithograph. Shanghai??. Qian Xun 錢恂(錢念劬 Qian Nianqu) comp. , 編  . Title on cover: *Geguo zhengzhi kao*. Preface by Chen Shuzhu 陳洙珠 from Jiangpu, Guangxu 27, 8^th^ month. See also sequel in same year *Wuzhou geguo zhengzhi kao xubian.*
+*Wuzhou geguo zhengzhi kao* 《五洲各国政治攷》：8卷6冊 。1901年 。 Lithograph. Shanghai??. Qian Xun 錢恂(錢念劬 Qian Nianqu) comp. , 編  . Title on cover: *Geguo zhengzhi kao*. Preface by Chen Shuzhu 陳洙珠 from Jiangpu, Guangxu 27, 8^th^ month. See also sequel in same year *Wuzhou geguo zhengzhi kao xubian.*
 
 Shanghai Tushuguan 线普    483760-65
 
@@ -2174,9 +2173,9 @@ Availability: 中国政法大学图书馆, Peking, ·学院路馆古旧书库. C
 
 ---
 
-Runfu 潤甫, *Huangchao jingshiwen tongbia皇朝經世文統編,107 juan。Shanghai: Baoshanzhai, 1901.Consists of unsourced essays published earlier. Quite a few are from newspapers that are badly preserved or did not survive. Especially useful to check illegible characters in the *Shenbao* databases as this edition is based on the originals.
+Runfu 潤甫, *Huangchao jingshiwen tongbia 皇朝經世文統編, 107 juan。Shanghai: Baoshanzhai, 1901.Consists of unsourced essays published earlier. Quite a few are from newspapers that are badly preserved or did not survive. Especially useful to check illegible characters in the *Shenbao* databases as this edition is based on the originals.
 
-Availability: Scan in HD database.
+Availability: All volumns can be accessed at [*Zhongguo zhexueshu dianzihua jihua*](https://ctext.org/library.pl?if=gb&res=90319) Scan in HD database.
 
 ---
 
@@ -2212,7 +2211,7 @@ Availability: SCAN in Heidelberg database of 1903 edition.
 
 Availability:
 
-北京中國國家圖書館        普通古籍閱覽室  \[info by Anna U call no. 50709\] 天津市河東區圖書館, see [link](http://www.guoxuemi.com/shumu/962590gg.html) and in [中共天津市委黨校圖書館](http://www.guoxuemi.com/shumu/962590gg.html%20and%20in%20中共天津市委黨校圖書館), see [link](http://www.guoxuedashi.net/shumu/928853bj.html) . And Toyo Bunko.
+北京中國國家圖書館 普通古籍閱覽室  \[info by Anna U call no. 50709\] 天津市河東區圖書館, see [link](http://www.guoxuemi.com/shumu/962590gg.html) and in [中共天津市委黨校圖書館](http://www.guoxuemi.com/shumu/962590gg.html%20and%20in%20中共天津市委黨校圖書館), see [link](http://www.guoxuedashi.net/shumu/928853bj.html) . And Toyo Bunko.
 
 I have not been able to locate this title in the OPAC of the Guojia tushuguan under the title or the call number.
 
@@ -2220,15 +2219,15 @@ Availability: No copy or scan in Heidelberg.xxx ordered Feb 2019
 
 ---
 
-*Zhong wai zhengyi cefu tongzong* 中外政藝策府統宗, Chen Wenzhu 陳文洙. Internal title: Xin ji geguo zhengzhi yixue ce 新輯各國政治藝學策。Title on margin of pages: fenlei geguo yixue ce分類各國藝學策. Preface by Chen Wenzhu 陳文洙
+*Zhong wai zhengyi cefu tongzong* 中外政藝策府統宗, Chen Wenzhu 陳文洙. Internal title: Xin ji geguo zhengzhi yixue ce 新輯各國政治藝學策。Title on margin of pages: fenlei geguo yixue ce 分類各國藝學策. Preface by Chen Wenzhu 陳文洙
 
-Shanghai: Zhongxi yishu hui上海中西譯書會, 1901. 28 juan.
+Shanghai: Zhongxi yishu hui 上海中西譯書會, 1901. 28 juan.
 
 Availability: Scan in HD database
 
 ---
 
-*Xi shi gangmu*. 西史綱目,Zhou Weihan 周維翰, 20 j. 10 vols. 1901. Lithograph. preface Guangxu 26 (1900), by a friend of the author. Richly illustrated with maps and examples of different writing systems. Modelled on *Tongjian gangmu*.
+*Xi shi gangmu*. 西史綱目, Zhou Weihan 周維翰, 20 j. 10 vols. 1901. Lithograph. preface Guangxu 26 (1900), by a friend of the author. Richly illustrated with maps and examples of different writing systems. Modelled on *Tongjian gangmu*.
 
 Availabiltity: Available in Heidelberg database.
 
@@ -2236,11 +2235,11 @@ Reprinted in 1902-3, Shanghai: Jing shi wen she,  \[上海\] : 經世文社, 
 
 ---
 
-*Shiwu tongkao xubian* 《 時務通攷續編》: 31 卷 16 冊,光緒27 年 (1901) 。Qi Lu zhuren 杞盧主人(?), 上海：Dianshizhai 點石齋出版 , Preface 1 , 1898, by Wu Dacheng 吳大澂, preface 2 by Tang Shouqian 湯壽潛 Feb. 1901. Lithography. Tang Shouqian says in preface that the work has been compiled by the 點石齋主人, Qi Lu zhuren not mentioned. Ascription might be due to the fact that this author compiled the *Shiwu tongkao*, 1897.
+*Shiwu tongkao xubian* 《時務通攷續編》: 31 卷 16 冊,光緒27 年 (1901) 。Qi Lu zhuren 杞盧主人(?), 上海：Dianshizhai 點石齋出版 , Preface 1 , 1898, by Wu Dacheng 吳大澂, preface 2 by Tang Shouqian 湯壽潛 Feb. 1901. Lithography. Tang Shouqian says in preface that the work has been compiled by the 點石齋主人, Qi Lu zhuren not mentioned. Ascription might be due to the fact that this author compiled the *Shiwu tongkao*, 1897.
 
 Shangtu: 线 普    405968-712 ,
 
-Availability: Copy in Heidelberg, SCAN in Heidelberg database
+Availability: Open access at [KANSAI UNIVERSITY OPEN RESEARCH CENTER for ASIAN STUDIES](https://www.iiif.ku-orcas.kansai-u.ac.jp/books/1225#?page=1);Copy in Heidelberg, SCAN in Heidelberg database.
 
 ---
 
@@ -2256,7 +2255,7 @@ Availability: Scan of table of contents in HD database.
 
 ---
 
-*Taixi yixue tongkao* 《泰西藝學通攷》(*A Comprehensive Examination of Western Technical Learning)*：16 卷24冊。He Liangdong comp., 何良 棟編。Xu Yuzhu徐毓洙 corrected, 光緒 辛丑年 (1901) 。 Shanghai, Hongbao shuju, lithograph上海鴻寳書局石印。 Preface by publisher, 1901. Preface by Xu Yuzhu 徐毓洙 (xiaoxian 嘯僊). Technical equipment, science and technologies. No political institutions.
+*Taixi yixue tongkao* 《泰西藝學通攷》(*A Comprehensive Examination of Western Technical Learning)*：16 卷24冊。He Liangdong comp., 何良 棟編。Xu Yuzhu徐毓洙 corrected, 光緒 辛丑年 (1901) 。 Shanghai, Hongbao shuju, lithograph 上海鴻寳書局石印。 Preface by publisher, 1901. Preface by Xu Yuzhu 徐毓洙 (xiaoxian 嘯僊). Technical equipment, science and technologies. No political institutions.
 
 Shangtu:  线普    505057-80.
 Availability: Heidelberg has SCAN in database.
@@ -2271,7 +2270,7 @@ Reprint of: *Xixue tongkao* 《西學通攷》： 36 卷12冊。光緒丁酉（1
 
 Divided into two big sections, xuelei 學類and zhenglei 政類 . A third section, jiaolei 教類 was to follow later. It is announced in the table of contents. Excerpts of available texts, sources given.
 
-1901 edition Shanghai shuju上海書局 is reprint of 1898 edition.
+1901 edition Shanghai shuju 上海書局 is reprint of 1898 edition.
 
 Availability: 1901 edition Heidelberg SCAN in database.
 
@@ -2283,7 +2282,7 @@ Availability: Heidelberg SCAN in database under *Wanguo jinzheng kao*.
 
 ---
 
-*Xixue shumu dawen* 西學書目答問 Zhao Weixi 趙惟熙,Guangxu 27, 1901, Guiyang, Guiyang xueshu, 貴陽學署.
+*Xixue shumu dawen* 西學書目答問 Zhao Weixi 趙惟熙, Guangxu 27, 1901, Guiyang, Guiyang xueshu, 貴陽學署.
 
 Availability: SCAN in Heidelberg database.
 
@@ -2291,7 +2290,7 @@ Availability: SCAN in Heidelberg database.
 
 *Wuzhou jiao'an jilue* 五洲教案紀略,Richard, Timothy (1845-1919) 李,提摩太outlined 命意, Lin Chaoqi 林朝圻recorded 達旨. Shanghai Guangxuehui jiaokan 1901. 上海 廣學會校刊 1901. **Physical Details:** 3, 3, 24 double ℓ. 24 cm.
 
-Availability: UC Berkeley. No copy or scan in Heidelberg.
+Availability: Open access at [*Zhongguo zhexueshu dianzihua jihua*](https://ctext.org/library.pl?if=gb&res=87031);UC Berkeley. No copy or scan in Heidelberg.
 
 ---
 
