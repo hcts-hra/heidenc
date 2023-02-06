@@ -2272,7 +2272,7 @@ Divided into two big sections, xuelei 學類and zhenglei 政類 . A third sectio
 
 1901 edition Shanghai shuju 上海書局 is reprint of 1898 edition.
 
-Availability: 1901 edition Heidelberg SCAN in database.
+Availability: The delivery of a copy can be requested at [Bayerische Staatsbibliothek](https://opacplus.bsb-muenchen.de/search?id=608385723&db=100&View=default); 1901 edition Heidelberg SCAN in database.
 
 ---
 
@@ -2320,7 +2320,7 @@ Availability: Not in HD database. Could be ordered from Guji. Is probably identi
 
 *Putongxue wenda quanshu* 普通學問答全書, Shao Xi 邵羲 (Zhendong 振東）tr.Shanghai :Commercial Press, 1901 ff.
 
-No. 1: *Zhongguo lishi wenda* 中國歷史問答 (1904). This is probably a translation of支那歴史問答 from the Fuzanbo series of the same name 1895.
+No. 1: *Zhongguo lishi wenda* 中國歷史問答 (1904). This is probably a translation of 支那歴史問答 from the Fuzanbo series of the same name 1895.
 
 No 5: Xuexiao guanlifa wenda 学校管理法问答（十一章）（1902）This is probably a translation of the Japanese work by the same title from the congshu by the same title from the Fuzanbo Publishers, 1895, available on ndl. The Bianyi putong jiaoyu baike quanshu (1903) also includes a book by this title that might be the same.
 
@@ -2332,7 +2332,7 @@ Availability: Could ordered through Guji. No copy in Heidelberg database.
 
 Li Timotai 李提摩太(=Timothy Richard). *Fenlei yangwu jingji celun* *(zeng yangwu shisan pian*, *xinzheng ce)* 分類洋務經濟策論（增洋務十三篇新政策）(Classified compendium of policy questions on statecraft and current affairs), Shanghai: Jieji shuju 介記書局, 1901. Lithograph. Enlarged edition of 1901 from same publisher,which is one of the Shanghai branches set up by the Dianshizhai.
 
-The table of contents of this edition is entitled *Shishi xinlun zongmu*時事新論總目 although it is not connected with Richard's *Shishi xinlun* of 1894, but reprints the table of contents from the 1894 edition of this text as *Yangwu xinlun* 洋務新論. In the margins of the pages, the chapters are numbered according to 時事 1,2,3,4,5,6. The juan breaks, however, do not correspond to the table of contents. The table of contents signals 4 juan, the book has 6. However, the individual pieces in there correspond to the table of contents. The breaks: juan 1 and two in the places indicated in table of content. Juan 3: starts in the middle of ToC 2 with 築路. Juan 4: starts where ToC starts juan 3. Juan 5: starts in the middle of ToC 3 with 利源. Juan 6: starts with ToC juan 4. The supplement announced in the title 增洋務十三篇新政策consists of two pieces, neither of which appears in the table of contents, namely: *Guochao yangwu xinlun* 國朝洋務新論, which is a reprint of an 1886 edition, and Timothy Richard's *Xinzheng ce* 新政策of 1895.
+The table of contents of this edition is entitled *Shishi xinlun zongmu* 時事新論總目 although it is not connected with Richard's *Shishi xinlun* of 1894, but reprints the table of contents from the 1894 edition of this text as *Yangwu xinlun* 洋務新論. In the margins of the pages, the chapters are numbered according to 時事 1,2,3,4,5,6. The juan breaks, however, do not correspond to the table of contents. The table of contents signals 4 juan, the book has 6. However, the individual pieces in there correspond to the table of contents. The breaks: juan 1 and two in the places indicated in table of content. Juan 3: starts in the middle of ToC 2 with 築路. Juan 4: starts where ToC starts juan 3. Juan 5: starts in the middle of ToC 3 with 利源. Juan 6: starts with ToC juan 4. The supplement announced in the title 增洋務十三篇新政策consists of two pieces, neither of which appears in the table of contents, namely: *Guochao yangwu xinlun* 國朝洋務新論, which is a reprint of an 1886 edition, and Timothy Richard's *Xinzheng ce* 新政策of 1895.
 
 Availability: Scan in Heidelberg database. The two supplements are in a separate file in the same folder.
 
@@ -5078,7 +5078,7 @@ Shao Zhitang 邵之棠 comp. Huangchao jingshiwen tongbian 皇朝經世文統編
   - 金鋼鑽石攷
 
 
-Availability: Word file fulltext and scan in HD database.
+Availability: The OCR of the whole volumns can be access at [*Zhongguo zhexueshu dianzihua jihua*](https://ctext.org/wiki.pl?if=gb&res=648936); Word file fulltext and scan in HD database.
 
 See also:
 
@@ -5139,11 +5139,11 @@ Published:
 -  \[China\] : Shanghai shu ju, Guangxu 27 \[1901\]
 -  \[China\] : 上海書局, 光緖27 \[1901\]    
 
-Availability: Scan in HD database
+Availability: Open access at [*zhongguo zhexueshu dianzihua jihua*](https://ctext.org/library.pl?if=gb&file=109161&page=1); Scan in HD database
 
 ---
 
-Qin Rongguang 秦榮光 comp., *Zhong xi jingji celun tongkao* 中西經濟策論通攷. Shanghai: Shenliu dushutang深柳讀書堂1902.
+Qin Rongguang 秦榮光 comp., *Zhong xi jingji celun tongkao* 中西經濟策論通攷. Shanghai: Shenliu dushutang 深柳讀書堂1902.
 
 Availability: Scan in HD database.
 
@@ -5159,14 +5159,14 @@ Availability: Title not located.
 
 Zhongyang yanjiuyuan, jinshisuo, nangang. Academia Sinica.
 
-Availability: Scan from Academia Sinica included in Heidelberg database.
+Availability: It can be downloaded for free at [Wikimedias Commons](https://commons.wikimedia.org/wiki/File:CADAL01036937_%E8%90%AC%E5%9C%8B%E6%94%BF%E6%B2%BB%E8%90%9F%E5%AD%B8%E5%85%A8%E6%9B%B8%C2%B7%E8%90%AC%E5%9C%8B%E8%97%9D%E5%AD%B8%E5%8F%A2%E8%80%83.djvu);Scan from Academia Sinica included in Heidelberg database.
 
 ---
 
 *Xixue san tong* 《西學三通》. Zhang Jian 張謇 (1853-1926) writes character on cover. Xie Ruochao 謝若潮 jian ding 鑒定, conceptualized, Yuan Zonglian 袁宗濂 Yan Zhiqing 晏志清 bian ji, compiled. Preface Guangxu 28 (1902) by Xie Ruochao. , Shanghai 萃新書館藏珍 , printed by Shanghai 文盛堂 with  lithography. 
 
 Section 1: \[v. 1-40\] 西政通典 Xizheng tongdian 
-Section 2: \[v. 41-72\] 西史通志Xi shi tongzhi 
+Section 2: \[v. 41-72\] 西史通志 Xi shi tongzhi 
 Section 3: \[v. 73-130\] 西藝通考. Xi yi tong kao. Preface in section 1: Tao Jun 陶鈞。Same in section 2 and 3. Advertisement on this book in Zhongwai ribao Jan 1, 1902, text translated by I. Amelung, "Encyclopedic publications", Conference paper, Heidelberg April 2016.
 
 Availability: SCAN in Heidelberg database.
@@ -5174,7 +5174,7 @@ Other copies: Australian National University.
 
 ---
 
-*Yixue tongzuan* 《藝學通纂》,( *Compendium of Technical Learning)*：14 類 88卷12冊。Ma Jianzhong ed., 馬建忠 。光緒壬寅年（1902 ）。Preface by Luo Zhenyu 羅振玉Shanghai, Shanghai Wenlin, lithograph, 上海文林石印。Summary in paper by Li Xiaoti, Jianli xi shiye, pp. 3-7.
+*Yixue tongzuan* 《藝學通纂》, (*Compendium of Technical Learning)*：14 類 88卷12冊。Ma Jianzhong ed., 馬建忠 。光緒壬寅年（1902 ）。Preface by Luo Zhenyu 羅振玉Shanghai, Shanghai Wenlin, lithograph, 上海文林石印。Summary in paper by Li Xiaoti, Jianli xi shiye, pp. 3-7.
 
 Shangtu: 435267-90
 
@@ -5191,13 +5191,13 @@ Availability: Heidelberg database SCAN
 *Huangchao zhanggu huibian* 《皇朝掌故彙編》 100 j. Zhang Shouyong comp. 張壽鏞 (b. 1876) , 1902, 求實書社 60 冊 6 函 1902 , pref by Sun Rongzhi 孫榮枝 . Contains detailed info on jiaqing, daoguang, tongzhi and guangxu reigns up to xinzheng new policies of early 1900s. in old Yenching tushuguan Peking, R 9301/1348. Table of contents in Teng Ssu-yu, Yenching tushuguan, p. 86. reprint in *Jin dai Zhongguo shi liao cong kan* 3 bian近代中國史料叢刊三編: di 13 ji ; 121-130 近代中國史料叢刊三編: 第十三輯 ; 121-130 Notes : Reprint. Originally published: Huang chao zhang gu hui bian. Nei bian. 1902. Subject : LinkChina \-- History \-- Qing dynasty, 1644-1912 \-- Sources. Jin dai Zhongguo shi liao cong kan 3 bian ; 121-130. Entire wai part deals with relations with West and new institutions.
 
 
-Availability: Copy of reprint in Heidelberg, no scan.
+Availability: Open access at [*Zhongguo zhexueshu dianzihua jihua*](https://ctext.org/library.pl?if=gb&res=90345);Copy of reprint in Heidelberg, no scan.
 
 ---
 
 *Wuzhou shulüe* 五洲述略, Xiao Yingchun 蕭應椿,:\[China\] : Zitengguan, Guangxu 28 \[1902\] \[China\] : 紫藤館, 光緖 28 \[1902\] printed with metal fonts. 4 j. in 6 v. Preface by Li Xi 李熙. Compilation had been started in 1898 summer. Has index of reference materials used in the beginning after *fanli*. No other works by this author in Worldcat. Among reference list one finds Osaka paper, the 知新報, 中外日報,萬國公報, 英國日報,東京日日報.
 
-Availability: SCAN in Heidelberg database.
+Availability: Open access at [*Zhongguo zhexueshu dianzihua jihua*](https://ctext.org/library.pl?if=gb&res=87256&remap=gb);SCAN in Heidelberg database.
 
 ---
 
@@ -5205,9 +5205,9 @@ Availability: SCAN in Heidelberg database.
 
 Systematic comparison of *Zhouli* Institutions with those from the West by author of most important *Zhouli* commentary. Many reprints, such as
 
-*Pingdian Zhouli zhengyao* 評點周禮政要,上海: 日新圖書局, 1902. Preface by Zhouqing jushi 籀廎居士 (= Sun Yirang)
+*Pingdian Zhouli zhengyao* 評點周禮政要, 上海: 日新圖書局, 1902. Preface by Zhouqing jushi 籀廎居士 (= Sun Yirang)
 
-Availability: SCAN in Heidelberg database of *Pingdian Zhouli zhengyao*
+Availability: Open access of *Zhouli zhengyao* at [*Zhongguo zhexueshu dianzihua jihua*](https://ctext.org/library.pl?if=gb&res=90761); SCAN in Heidelberg database of *Pingdian Zhouli zhengyao*
 
 ---
 
@@ -5227,7 +5227,7 @@ Availability: SCAN on [http://kindai.ndl.go.jp/]( http://kindai.ndl.go.jp/)
 
 Internal title: *Shiwu fenlei wenbian* 時務分類文編. The chapter headings give for each of the 32 chapters the number under this title. A large collection of Chinese writings on Western institutions for reference in the Xinzheng policies that started in this year.
 
-Availability: Original copies in Toyo bunko 東洋文庫 Tokyo, and Beijing daxue tushuguan, Peking. Reprint Taipei: Wenhai chubanshe, 1979, 3 vols. Print copy of this reprint in Heidelberg library. Full text on line available at the Academia Sinica
+Availability: The OCR of this title can be accessd [*Zhongguo zhexueshu dianzihua jihua*](https://ctext.org/wiki.pl?if=gb&res=967472), but the quality seems quite poor; Original copies in Toyo bunko 東洋文庫 Tokyo, and Beijing daxue tushuguan, Peking. Reprint Taipei: Wenhai chubanshe, 1979, 3 vols. Print copy of this reprint in Heidelberg library. Full text on line available at the Academia Sinica
 
 http://www.sinica.edu.tw/ftms-bin/ftmsw3. Go to 清代經世文編,open the list, select title. Reminder: In one sitting you can only do a limited number of searches.
 
@@ -5235,7 +5235,7 @@ http://www.sinica.edu.tw/ftms-bin/ftmsw3. Go to 清代經世文編,open the list
 
 Gan Han 甘韓, *Huangchao jingshiwen xinbian xuji* 《皇朝經世文新編續集》, lithography reproduction, no publ., 1902, 21 j, 18 vols. Contains, among others things, useful list of different transcriptions of foreign place names.
 
-Availability: Full text database in Academia sinica under http://www.sinica.edu.tw/%7Etdbproj/handy1/ , Reprint of 1902 edition in Jindai and in Wikimedia under http://ctext.org/wiki.pl?if=en&res=923984
+Availability: Full text database in Academia sinica under http://www.sinica.edu.tw/%7Etdbproj/handy1/ , Reprint of 1902 edition in Jindai and in Wikimedia under http://ctext.org/wiki.pl?if=en&res=923984.
 
 Zhongguo shiliao congkan 781, Taipei: Wenhai, 1972 in Heidelberg library.
 
@@ -5245,7 +5245,7 @@ Zhongguo shiliao congkan 781, Taipei: Wenhai, 1972 in Heidelberg library.
 
 Tokyo: Fuzanbō 1902-1903. At least 15 volumes. Japanese.
 
-Availability: scans Vols 7,9,10,11,14,15 on kindai.ndl.go.jp. Volumes individually listed in this bibliography. To be found with search Fuzanb.
+Availability: Open access at [NDL Digital Collection](https://dl.ndl.go.jp/pid/771347/1/18); Scans Vols 7,9,10,11,14,15 on kindai.ndl.go.jp. Volumes individually listed in this bibliography. To be found with search Fuzanb.
 
 ­­­­­­­­­­­­­­­­­­­­­­---
 
@@ -5289,13 +5289,13 @@ Reprint of *Yangwu jingji tongkao* (1898, 1901)
 
 Reprint of: *Wuzhou tongkao* 五洲圖考 (1898) . Availability: Princeton, UBC, Univ. of Hong Kong
 
-Enlarged reprint of: *Xixue fuqiang congshu* 西學富強叢書, Shanghai: Rixin she日新社. New parts: Ying cheng jie yao* 營城掲要, 2卷 附圖, 2 juan fu tu, 傅蘭雅口譯 徐壽筆述. 徐壽, ed. John Fryer orally translated; Xu Shou noted down.
+Enlarged reprint of: *Xixue fuqiang congshu* 西學富強叢書, Shanghai: Rixin she 日新社. New parts: Ying cheng jie yao* 營城掲要, 2卷 附圖, 2 juan fu tu, 傅蘭雅口譯 徐壽筆述. 徐壽, ed. John Fryer orally translated; Xu Shou noted down.
 
 Reprint of: *Xi shi gangmu* (1901)
 
 ­­­­­­­­­­­­­­­­­­­­­­---
 
-Anon. *Shishi caixin huixuan* 時事采新彚選,np. No publisher, 1902. 20 vols. Metal fonts. Annual publication of news clippings, 1902-1907.
+Anon. *Shishi caixin huixuan* 時事采新彚選, np. No publisher, 1902. 20 vols. Metal fonts. Annual publication of news clippings, 1902-1907.
 > Shou lu 1902 zhi 1907 nian Qing Guangxu chao ting de zheng shi dong tai, yu zhi, zou zhe he si shi yu jia Zhong wai bao kan fa biao de xin wen, zheng lun deng jin 7,000 pian wen zhang Chu ban shuo ming.
 
 Reprint. Each page represents two leaves of the original. 20 v. ; 27 cm.
@@ -5311,7 +5311,7 @@ Availability：Full text [online](http://ctext.org/wiki.pl?if=en&chapter=906632)
 
 ­­­­­­­­­­­­­­­­­­­­­­---
 
-Liu Shouzeng 劉壽曾 comp., *Jingshi shiwu celun caixin* 經史時務策論菜新, 1902, Lithograph. Source: http://www.gujibook.com/gujide_17611/
+Liu Shouzeng 劉壽曾 comp., *Jingshi shiwu celun caixin* 經史時務策論采新, 1902, Lithograph. Source: http://www.gujibook.com/gujide_17611/
 
 Availability: Not in HD database.
 
@@ -6689,7 +6689,7 @@ Availability: Hard copy of Collection 7, 地球下 in HD Library.
 
 ### 1934
 
-Huang Shaoxu 黃紹緒et al. eds., *Chongbian Riyong baike quanshu* 重編 日用百科全書,Shanghai: Shanghai Commercial Press, 1934, 3 vols. Many later editions.
+Huang Shaoxu 黃紹緒 et al. eds., *Chongbian Riyong baike quanshu* 重編 日用百科全書,Shanghai: Shanghai Commercial Press, 1934, 3 vols. Many later editions.
 
 Availability: Copy in Heidelberg library. No scan.
 
