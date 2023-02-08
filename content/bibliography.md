@@ -5331,7 +5331,7 @@ LC **Call Number of Chinese editions:** HQ1154 .A664 1903
 
 Three libraries have this Trinity College, Hartford, Rutgers, Wisconsin. Not available via interlibrary loan.
 
-Availability: German edition in Heidelberg. Chinese edition not in Heidelberg.
+Availability: German edition in Heidelberg; The Chinese translation can be accessed at [National Library of Asutralia Disgitalized Item](https://nla.gov.au/nla.obj-58731408)
 
 ­­­­­­­­­­­­­­­­­­­­­­---
 
@@ -5343,21 +5343,23 @@ Avail ability: Scan in Heidelberg database.
 
 *Putong baike quanshu* 普通百科全書, prefaces by Tang Shouqian 湯壽潛 and Zheng Shaolian 鄭紹濂, Shanghai: Huiwenshe 會文社, 1903. Alternative title for *Bianyi putong jiaoyu baike quanshu.* See information under this entry.
 
+Availability: No location found. 
+
 ---
 
-*Wanguo xin dizhi*《萬國新地誌》：1本,英國 雷文斯頓著于 1902年,Published by the Englishman Livingston 雷文斯頓 (?) in 1902, He Yujie trsl.何育傑譯,光緒29年（1903 ）10月,上海通社出版。
+*Wanguo xin dizhi*《萬國新地誌》：1本,英國 雷文斯頓著于 1902年, Published by the Englishman Livingston 雷文斯頓 (?) in 1902, He Yujie trsl.何育傑譯,光緒29年（1903 ）10月,上海通社出版。
 
 (A work of the same title by ***Takagi Yogorō*** 高城與五郎, Tokyo, 四書, 堂***1894*** (a revised edition) *is listed in NACSIS,* but it is not marked as a translation.)
 
 Shangtu: 旧平装  55774
 
-Availability: No copy in Heidelberg library or database.
+Availability: No copy in Heidelberg library or database. No location found, but there is a Korean edition of《萬國地誌》that can be downloaded, although without knowing if they have any relevance. [PDF](https://upload.wikimedia.org/wikipedia/commons/f/f8/萬國地誌.pdf). 
 
 ---
 
 *Zhong wai cewen daguan* 中外策問大觀, Lei Jin 雷縉, Lu Runyang 陸潤庠 \[鳳石\] \[1841-1914\],28 j., 10 vols. Shanghai (?): Yangengshan zhuang硯耕山莊, 1903, Lithography.
 
-Availability: Copy in Heidelberg, Scan in HEIDENC
+Availability: Copy in Heidelberg, Scan in HEIDENC; Open access at [*Zhongguo zhexueshu dianzihua jihua*](https://ctext.org/library.pl?if=gb&file=108179&page=1).
 
 ---
 
@@ -5368,7 +5370,7 @@ Availability: SCAN in Heidelberg database. UC Los Angeles has Xerox copy of Kyot
 ---
 
 
-*Wanguo lishi huibian* 萬國歷史彙編,Jiang Ziyun 江子雲et al. zuan: \[100 juan\] ,Shanghai : Guan shu ju 官書局, (Qing) Guangxu 29 \[1903\] 16 v. (double leaves) in case. 20 cm.
+*Wanguo lishi huibian* 萬國歷史彙編, Jiang Ziyun 江子雲 et al. zuan: \[100 juan\] ,Shanghai : Guan shu ju 官書局, (Qing) Guangxu 29 \[1903\] 16 v. (double leaves) in case. 20 cm.
 
 Holdings: Princeton xxx
 
@@ -5391,14 +5393,14 @@ Availability. SCAN in Heidelberg database.
 
 *Waiguo diming renming cidian*《外國地名人名辭典》：1部精裝, Sakamoto Kenichi 阪本健一(1874-) ed., 日本文學士 阪本健一 編, 新學會社譯編發行,comp. and trsl. 寧波 新學會社, publ. Shanghai, 新學會社支點, printed 日本東京并木活版所 印刷, 光緒30年(1903) Feb一版.Preface by Jiang Qipeng 江起鵬 . In preface two translators mentioned Yuan Junzhi 苑均之, and Wu Lielun 鄔烈倫, both worked with friends who were studying in Japan. They seemed to have formed the Ningbo xinxue huishe. Original title: *Gaikoku chimei jinmei jiten*. Of this I find an enlarged edition, Tokyo: Hobunkan 寳文館1903 at LOC and Keio University. This edition has been reprinted in Tokyo: Ozorasha, 1996 under the title *Zōtei gaikoku chimei jinmei jiten*. Organized according to Western alphabet. 526 pp text, 160 pp. Indexes. (Has entry on Darwin 4 lines). Reprints, 1904, 1906, 1914.
 
-Availability: Heidelberg database scan.
+Availability: Heidelberg database scan. A item with the same title as 外國地名人名辭典 published in aounrd the same year by 竜野元四 can be accessed at [NDL Digital Collection](https://dl.ndl.go.jp/pid/779178). 
 
 ---
 
-*Xin Erya* 《新爾雅》1冊, Wang Rongbao (1878-1933), Ye Lan, comp. 王榮寶,葉瀾：。1903年,上海, Guoxue she 國學社. Ye Lan data in Li Xiaoti, Jianli xin shiye, 21-25. Distributed by the Mingquan she 明權社 。Photoreprint of this edition in *Shinjiga to sono go-i : kenkyû, sakuin, eiinbon fu* 新爾雅とその語彙 : 研究,索引,影印本付 / Shin Kokui hencho 沈國威 編著, Tôkyô : Hakuteisha 白帝社, 1995. Later editions: 1906.
+*Xin Erya* 《新爾雅》1冊, Wang Rongbao (1878-1933), Ye Lan, comp. 汪榮寳,葉瀾：。1903年,上海, Guoxue she 國學社. Ye Lan data in Li Xiaoti, Jianli xin shiye, 21-25. Distributed by the Mingquan she 明權社 。Photoreprint of this edition in *Shinjiga to sono go-i : kenkyû, sakuin, eiinbon fu* 新爾雅とその語彙 : 研究,索引,影印本付 / Shin Kokui hencho 沈國威 編著, Tôkyô : Hakuteisha 白帝社, 1995. Later editions: 1906.
 
 
-Availability: Photostat edition in Heidelberg library and SCAN in database.
+Availability: Photostat edition in Heidelberg library and SCAN in database. Open access at [Internet Archive](https://archive.org/details/XinErya)
 
 ---
 
@@ -5407,13 +5409,13 @@ Availability: Photostat edition in Heidelberg library and SCAN in database.
 Availability: Heidelberg SCAN in database.
 ---
 
-Liang Qichao 梁啟超, *Chong ding fenlei yinbingshi wenji quanbian* 重訂飲冰室文集 全編, Shanghai: Guangyi shuju廣益書局, 1903. This is most likely the basis for the *Yinbingshi wenji leibian* 飲冰室文集類編, Tokyo: Shimokōbe Hangorō, 1904.
+Liang Qichao 梁啟超, *Chong ding fenlei yinbingshi wenji quanbian* 重訂飲冰室文集全編, Shanghai: Guangyi shuju 廣益書局, 1903. This is most likely the basis for the *Yinbingshi wenji leibian* 飲冰室文集類編, Tokyo: Shimokōbe Hangorō, 1904.
 
-Availability: University of Washington, University of Colorado, Boulder. No Copy in HD. xxxxx
+Availability: University of Washington, University of Colorado, Boulder. No Copy in HD. xxxxx; Open access at [Taiwan huawen dianzishuku](https://taiwanebook.ncl.edu.tw/zh-tw/book/NCL-000039342/reader)
 
 ---
 
-*Bianyi putong jiaoyu baike quanshu* 《編譯普通教育百科全書》, Alternative title: *Putong baike quanshu* 普通百科全書, Fan Diji 范廸吉 (Zhenshi 枕石) directing the translation; editors: Huang Chaojian 黃朝鋻, Li Sishen 李思慎, Zhang Zhensheng張振聲, Gu Fujia 顧福嘉editors; ：100卷 100 冊,光緒29年（1903）,上海會文學社出版. Translation: 東華譯書社 Japanese Chinese Translation Publishers. Shanghai: Huiwenshe 會文社, 1903
+*Bianyi putong jiaoyu baike quanshu* 《編譯普通教育百科全書》, Alternative title: *Putong baike quanshu* 普通百科全書, Fan Diji 范廸吉 (Zhenshi 枕石) directing the translation; editors: Huang Chaojian 黃朝鋻, Li Sishen 李思慎, Zhang Zhensheng張振聲, Gu Fujia 顧福嘉editors; ：100卷 100 冊,光緒29年（1903）, 上海會文學社出版. Translation: 東華譯書社 Japanese Chinese Translation Publishers. Shanghai: Huiwenshe 會文社, 1903
 
 Prefatory matter: Prefaces by Tang Shouqian 湯壽潛 (Tang Zhen 湯震) (1856-1917 )(1902), who gives yet another title to the work through the title of his preface, which is 新譯日本普通百科全書敍 ; Li Sishen 李思慎 , Zheng Shaolian 鄭紹濂, and one by Zhe Chenyong 哲臣用in seal script. A statement "General purpose of the work," 本書之宗旨, a statement on the "Content of the work" 本書之内容, a statement "On the reasons of the Dong Hua yishe compiling and translating this work, 東華譯社編譯本書之原因, a fanli 凡例 for the book, the general table of contents, ending with a list of the 38 reference works used in compiling the encyclopaedia. An illustrative index 簡明目錄with short characterizations of the works that have been included in translation. The publishing house was set up in 1903 by Tang Shouqian 湯壽潛 and Shen Lin 沈霖 (Shen Yulin 沈玉林). The name of the Shanghai company publishing the Chinese edition suggests that it was done with Japanese financial support. The material is structured in three segments: "Questions and Answers" 17 groups; "General knowledge" 普通學12 groups; and "sciences" 科學in 62 groups. The entire work has some 3 million characters (Introductions, p. 6a). The material is selected and translated from the volumes of the Japanese Imperial Encyclopedia *Teikoku hyakka zensho*帝国百科全書, 東京：博文館, 1898-1908 that had appeared up to 1903, as well as the study material collection *Futsūgaku mondō zensho* 普通学問答全書(Complete anthology of answers to questions on general sciences) that had been published by Fuzanbō富山房 publishers, one of the main publishing houses of translations and original works for popular education. Some quotations from the prefaces in the article by Zou Zhenhuan.
 
@@ -5423,9 +5425,9 @@ Fan Diji also translated educational works from Japanese, such as Fujimato Ri �
 
 In the Beginner's Section 初級學 most of the titles are taken from the Questions and Answers series of Fuzanbō.
 
--  2\. *Riben lishi wenda*日本歴史問答 based on work with the same title, which is 普通学問答全書 第３編 of Fuzanbō publisher, Tokyo 1894. (Japanese text accessible on-line in ndl)
+-  2\. *Riben lishi wenda* 日本歴史問答 based on work with the same title, which is 普通学問答全書 第３編 of Fuzanbō publisher, Tokyo 1894. (Japanese text accessible on-line in ndl)
 -  3\. *Shijie lishi wenda* 世界歴史問答, based on work with the same title, which is 普通学問答全書 第5編 of Fuzanbō publisher, Tokyo , 1894. . (Japanese text accessible on-line in ndl)
--  4\. *Riben dili wenda*日本地理問答, based on work with the same title, which is 普通学問答全書 第1編 of Fuzanbō publisher, Tokyo , 1894. . (Japanese text accessible on-line in ndl)
+-  4\. *Riben dili wenda* 日本地理問答, based on work with the same title, which is 普通学問答全書 第1編 of Fuzanbō publisher, Tokyo , 1894. . (Japanese text accessible on-line in ndl)
 
 Some examples from the Putongxue section: 普通學
 
@@ -5496,13 +5498,13 @@ Availability: Scans of entire set in Heidelberg database.
 
 The Temple Primers are an encyclopedia in the form of a series of relatively short books on given topics. They interact with the Goeschen Series in Germany, which has a similar format and of which they translate quite a few titles. 
 
-Availability: Both text and translation in HD in book form, no scan.
+Availability: Both text and translation in HD in book form, no scan; Open Access at [Taiwan huawen dianzishhuku](https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-0556835/reader).
 
 ---
 
-*Huangchao zhengdian leizuan*  《皇朝政典類纂》 , 500 j. , 119 冊22函 ,1903, Shanghai, 圖書集成書局, Xi Yufu 席裕福 et al. comp. Pref. By author and by Lü Haihuan 呂海寰 。Description : 50 v. ; 22 cm. Reprinted in series : *Jin dai Zhongguo shi liao cong kan xu bian* : di 88-92 ji ; 871-920 近代中國史料叢刊續編: 第88-92 輯 ; 871-920. Notes : Bbibliography: v. 1, p. 11-24. Shen, Shixu沈師徐 . Table of contents in teng ssu-yu, p. 86 f.
+*Huangchao zhengdian leizuan*  《皇朝政典類纂》 , 500 j. , 119 冊22函 ,1903, Shanghai, 圖書集成書局, Xi Yufu 席裕福 et al. comp. Pref. By author and by Lü Haihuan 呂海寰 。Description : 50 v. ; 22 cm. Reprinted in series : *Jin dai Zhongguo shi liao cong kan xu bian* : di 88-92 ji ; 871-920 近代中國史料叢刊續編: 第88-92 輯 ; 871-920. Notes : Bbibliography: v. 1, p. 11-24. Shen, Shixu 沈師徐 . Table of contents in teng ssu-yu, p. 86 f.
 
-Holdings: UC Berkeley. Harvard, Univ. of Pennsylvania. Cornell.
+Holdings: UC Berkeley. Harvard, Univ. of Pennsylvania. Cornell. Leiden. 
 
 Availability: Copy in Heidelberg, no scan.
 
@@ -5510,7 +5512,7 @@ Availability: Copy in Heidelberg, no scan.
 
 *Xi shi gangmu chu han, er han* 西史綱目初函二函, 35 j., 18 vols. (v. 1-10 chu han Shanggu shi 上古史, v. 11-18, er han Zhonggu shi 中古史). Maps. Shanghai, 經世文社, 1903, *Xi shi gangmu*. 西史綱目,Zhou Weihan 周維翰, 20 j. 10 vols. 1901. Lithograph. preface Guangxu 26 (1900), by a friend of the author. Richly illustrated with maps and examples of different writing systems. Modelled on *Tongjian gangmu*. The first part is a reprint of *Xi shi gangmu* (1901)
 
-Availability: SCAN in Heidelberg database.
+Availability: SCAN in Heidelberg database. Standfort also holds.  
 
 ---
 
@@ -5519,7 +5521,7 @@ Availability: SCAN in Heidelberg database.
 Zhongyang yanjiuyuan, jinshisuo, Nangang, on which Heidelberg scan is based, ch. 14 is missing.
 
 
-Availability: SCAN in Heidelberg database.
+Availability: SCAN in Heidelberg database. Uni of Chicago also holds. 
 
 ---
 
@@ -5613,7 +5615,7 @@ See also:
 
 Reprint of: *Guangxue leibian*《廣學類編》(1901)
 
-Yu Baoxuan 于寶軒 ed., *Huangchao xu'ai wenbian*皇朝蓄艾文編, Shanghai: Guanshu ju 官書局, 1903, 80 juan.Preface: Zhang Zhidong 張之洞, Preface Song Yuren 宋育仁 and Yu Baoxuan于寶軒.
+Yu Baoxuan 于寶軒 ed., *Huangchao xu'ai wenbian* 皇朝蓄艾文編, Shanghai: Guanshu ju 官書局, 1903, 80 juan.Preface: Zhang Zhidong 張之洞, Preface Song Yuren 宋育仁 and Yu Baoxuan于寶軒.
 
 Availability: Scan in HD Database. On-line accessible via Harvard-Google under [URL](http://fig.lib.harvard.edu/fig/?bib=007557396), but first half there copied from the wrong end.
 
@@ -5647,7 +5649,7 @@ Availability: Reprinted in 王萍(主編),《近代中國對西方及列強認�
 
 ---
 
-*Wanguo tongshi xubian*, 萬國通史续編, 10 j., Rees, John Lambert, 1862-李思倫白約翰comp. Trsl. Cai Erkang 蔡爾康, Cao Zenghan曹曾涵written up, Shanghai: Guangxue hui, 1904. 上海 : 廣學會, 1904. English title: History of ancient and moderen nations. part 2. Modern nations.
+*Wanguo tongshi xubian*, 萬國通史续編, 10 j., Rees, John Lambert, 1862-李思倫白約翰 comp. Trsl. Cai Erkang 蔡爾康, Cao Zenghan曹曾涵written up, Shanghai: Guangxue hui, 1904. 上海 : 廣學會, 1904. English title: History of ancient and moderen nations. part 2. Modern nations.
 
 Availability: University of British Columbia. Not in HD.xxx
 
@@ -5972,7 +5974,7 @@ Availability: Cornell University. Stanford U. No Heidelberg copy. xxx
 
 *Bankoku saikinshi* 萬國最近史, Matsumura, Kaiseki 松村介石(1859-1939), Tokyo: Keiseisha Shoten, Meiji 38-39 \[1905-1906\] 東京 : 警醒社書店, 明治38-39 \[1905-1906\] 3 vols. 19 cm. Japanese.
 
-Availability: Harvard Yenching, not in Heidelberg.
+Availability: Open access at [NDL Online](https://id.ndl.go.jp/bib/000000429468); Harvard Yenching, not in Heidelberg.
 
 ---
 
