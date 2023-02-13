@@ -6283,7 +6283,7 @@ Availability: Original in Harvard Yenching. In the Siku weishou ji kan di 8 ji, 
 
 *Putong baike xin dacidian* 普通百科新大辭典, Huang Ren 黃人 (Huang Moxi 黃摩西, 1866-1913) comp. Shanghai: Zhongduo cidian gongsi 中國詞典公司, 1911(宣統3年5 月), 15ce in 2 han, printed on commission for 國學扶輪社. The sequence of the entries follows the purely formal criterion of stroke number with a serial number within each stroke (such as 13 strokes, number 312) for easy retrieval. Below the name of the entry is the category under which it is grouped, such as *shi* 史 (history) or *wen* 文 (writing). There are 14 such categories. A separate index groups all entries according to these categories.
 
-Availability: Heidelberg copy and scan in database.
+Availability: Open access at [*Zhongguo zhexueshu dianzihua jihua*](https://ctext.org/library.pl?if=gb&res=92932);Heidelberg copy and scan in database.
 
 ---
 
@@ -6515,9 +6515,9 @@ Availability: Title not located.
 
 ---
 
-Sun, Yuxiu 孫毓修1874-1915?´, *Shao nian cong shu* 少年叢書, Shanghai : Shang wu yin shu guan, Minguo 8-9 \[1919-1920\] 4 v. ; 19 cm., Childrens literature, biographies of Wen Tianxiang \-- Ban Chao \-- Xinlingjun \-- Su Qin. Zhu Xi, Wang Yangming, Xuanzang, Sima Guang.
+Sun, Yuxiu 孫毓修 1874-1915?´, *Shao nian cong shu* 少年叢書, Shanghai : Shang wu yin shu guan, Minguo 8-9 \[1919-1920\] 4 v. ; 19 cm., Childrens literature, biographies of Wen Tianxiang \-- Ban Chao \-- Xinlingjun \-- Su Qin. Zhu Xi, Wang Yangming, Xuanzang, Sima Guang.
 
-Availability:
+Availability: held by Leiden University 
 
 ### 1922
 
@@ -6539,7 +6539,7 @@ Availability: No copy located.
 
 *Xin wenhua cishu* 新文化辭書, Tang Jinggao唐敬杲 comp., Shanghai: Commercial Press, 上海 : 商務印書館 ,
 
-Availability: SCAN in Heidelberg database.
+Availability: SCAN in Heidelberg database. 
 
 ---
 
