@@ -1918,7 +1918,7 @@ Availability: Not available in Heidelberg database.
 
 Availability: copy of 1898 edition in Heidelberg, SCAN in database under *Jingji tongkao*.
 
-3rd ed. 1901. Harvard has the same copy, cover title *Jingji tongkao*. Ying Zuxi應祖錫and Han Qingfu 韓卿甫, zuan 纂。
+3rd ed. 1901. Harvard has the same copy, cover title *Jingji tongkao*. Ying Zuxi 應祖錫 and Han Qingfu 韓卿甫, zuan 纂。
 
 Availability: Heidelberg SCAN in database under *Yangwu jingji tongkao*.
 
