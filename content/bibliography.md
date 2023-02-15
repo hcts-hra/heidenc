@@ -1805,7 +1805,7 @@ Availability: 小方壺齋輿地叢鈔 can be accessed at [[Hathi Trust Digital 
 
 *Wuzhou fangyu kao* 五洲方域考, Gong Chai 龔柴, ed., in Wang Xiji 王錫輯 (1855-1913) comp., *Xiaofanghuzhai yudi congchao* (1879). Date of original not clear
 
-Availability: 小方壺齋輿地叢鈔 can be accessed at [[Hathi Trust Digital Library]](https://catalog.hathitrust.org/api/volumes/oclc/502895999.html), in which 五洲方域考 in vol.1; Print copy Heidelberg
+Availability: 小方壺齋輿地叢鈔 can be accessed at [Hathi Trust Digital Library](https://catalog.hathitrust.org/api/volumes/oclc/502895999.html), in which 五洲方域考 in vol.1; Print copy Heidelberg
 
 ### 1898
 
