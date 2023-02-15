@@ -5174,7 +5174,7 @@ Other copies: Australian National University.
 
 ---
 
-*Yixue tongzuan* 《藝學通纂》, (*Compendium of Technical Learning)*：14 類 88卷12冊。Ma Jianzhong ed., 馬建忠 。光緒壬寅年（1902 ）。Preface by Luo Zhenyu 羅振玉Shanghai, Shanghai Wenlin, lithograph, 上海文林石印。Summary in paper by Li Xiaoti, Jianli xi shiye, pp. 3-7.
+*Yixue tongzuan* 《藝學通纂》, (*Compendium of Technical Learning)*：14 類 88卷12冊。Ma Jianzhong ed., 馬建忠 。光緒壬寅年（1902 ）。Preface by Luo Zhenyu 羅振玉 Shanghai, Shanghai Wenlin, lithograph, 上海文林石印。Summary in paper by Li Xiaoti, Jianli xi shiye, pp. 3-7.
 
 Shangtu: 435267-90
 
