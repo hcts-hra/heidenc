@@ -5393,7 +5393,7 @@ Availability. SCAN in Heidelberg database.
 
 *Waiguo diming renming cidian*《外國地名人名辭典》：1部精裝, Sakamoto Kenichi 阪本健一(1874-) ed., 日本文學士 阪本健一 編, 新學會社譯編發行,comp. and trsl. 寧波 新學會社, publ. Shanghai, 新學會社支點, printed 日本東京并木活版所 印刷, 光緒30年(1903) Feb一版.Preface by Jiang Qipeng 江起鵬 . In preface two translators mentioned Yuan Junzhi 苑均之, and Wu Lielun 鄔烈倫, both worked with friends who were studying in Japan. They seemed to have formed the Ningbo xinxue huishe. Original title: *Gaikoku chimei jinmei jiten*. Of this I find an enlarged edition, Tokyo: Hobunkan 寳文館1903 at LOC and Keio University. This edition has been reprinted in Tokyo: Ozorasha, 1996 under the title *Zōtei gaikoku chimei jinmei jiten*. Organized according to Western alphabet. 526 pp text, 160 pp. Indexes. (Has entry on Darwin 4 lines). Reprints, 1904, 1906, 1914.
 
-Availability: Heidelberg database scan. A item with the same title as 外國地名人名辭典 published in aounrd the same year by 竜野元四 can be accessed at [NDL Digital Collection](https://dl.ndl.go.jp/pid/779178). 
+Availability: Heidelberg database scan. A item with the same title as 外國地名人名辭典 published around the same year by 竜野元四 can be accessed at [NDL Digital Collection](https://dl.ndl.go.jp/pid/779178). 
 
 ---
 
