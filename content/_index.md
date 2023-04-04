@@ -10,7 +10,7 @@ This webpage preserves part of the *Heidelberg Encyclopedia Database*  `heidENC`
 
 In order to maintain accessibility to the contents of `heidENC` it is split into three parts:
 
-- A [data-publication](https://heidata.uni-heidelberg.de) for pdfs / binary files accessible by request.
+- A [data-publication](https://zenodo.org/record/7313202) for pdfs / binary files accessible by request.
 - A open [data repository](https://github.com/hcts-hra/heidenc-txt) for txt files.
 - This page \([source {{< icon "github" >}}](https://github.com/hcts-hra/heidenc)\) for the annotated bibliography.
 
