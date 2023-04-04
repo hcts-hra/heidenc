@@ -10,7 +10,7 @@ The original project has been split into three parts:
 
 - This Repo.
 - A [data repo](https://github.com/hcts-hra/heidenc-txt) for professionally typed `.txt`  files of primary sources (incomplete)
-- a [Data publication](https://heidata.uni-heidelberg.de) for binary files
+- a [Data publication](https://zenodo.org/record/7313202) for binary files
 
 ## Development
 
